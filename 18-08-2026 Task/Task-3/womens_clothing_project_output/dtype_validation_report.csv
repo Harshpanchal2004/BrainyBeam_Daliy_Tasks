@@ -1,0 +1,14 @@
+column_name,expected_dtype,actual_dtype,status
+record_id,Int64,Int64,PASS
+clothing_id,Int64,Int64,PASS
+age,Int64,Int64,PASS
+title,string,string,PASS
+review_text,string,string,PASS
+rating,Int64,Int64,PASS
+recommended_ind,boolean,boolean,PASS
+positive_feedback_count,Int64,Int64,PASS
+division_name,category,category,PASS
+department_name,category,category,PASS
+class_name,category,category,PASS
+title_missing,boolean,boolean,PASS
+review_text_missing,boolean,boolean,PASS

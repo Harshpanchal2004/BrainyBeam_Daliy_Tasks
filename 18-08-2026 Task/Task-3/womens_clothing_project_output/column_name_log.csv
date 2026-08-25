@@ -1,0 +1,12 @@
+original_column_name,standardized_column_name
+Unnamed: 0,record_id
+Clothing ID,clothing_id
+Age,age
+Title,title
+Review Text,review_text
+Rating,rating
+Recommended IND,recommended_ind
+Positive Feedback Count,positive_feedback_count
+Division Name,division_name
+Department Name,department_name
+Class Name,class_name

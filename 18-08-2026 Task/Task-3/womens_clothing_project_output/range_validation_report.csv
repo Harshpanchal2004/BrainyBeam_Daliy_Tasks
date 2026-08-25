@@ -1,0 +1,6 @@
+column_name,minimum_allowed,maximum_allowed,actual_minimum,actual_maximum,missing_values,invalid_values,status
+record_id,0,,0,23485,0,0,Passed
+clothing_id,0,,0,1205,0,0,Passed
+age,13,120.0,18,99,0,0,Passed
+rating,1,5.0,1,5,0,0,Passed
+positive_feedback_count,0,,0,122,0,0,Passed

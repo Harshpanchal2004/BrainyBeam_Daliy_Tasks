@@ -1,0 +1,14 @@
+column_name,data_type,missing_values,unique_values
+record_id,Int64,0,23486
+clothing_id,Int64,0,1206
+age,Int64,0,77
+title,string,0,13994
+review_text,string,0,22635
+rating,Int64,0,5
+recommended_ind,boolean,0,2
+positive_feedback_count,Int64,0,82
+division_name,category,0,4
+department_name,category,0,7
+class_name,category,0,21
+title_missing,boolean,0,2
+review_text_missing,boolean,0,2

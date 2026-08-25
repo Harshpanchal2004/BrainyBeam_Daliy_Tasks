@@ -1,0 +1,12 @@
+column_name,original_dtype,target_type,final_dtype,confidence_percent,invalid_values_created,status
+record_id,int64,integer,Int64,100.0,0,Converted successfully
+clothing_id,int64,integer,Int64,100.0,0,Converted successfully
+age,int64,integer,Int64,100.0,0,Converted successfully
+title,str,string,string,100.0,0,Converted successfully
+review_text,str,string,string,100.0,0,Converted successfully
+rating,int64,integer,Int64,100.0,0,Converted successfully
+recommended_ind,int64,boolean,boolean,100.0,0,Converted successfully
+positive_feedback_count,int64,integer,Int64,100.0,0,Converted successfully
+division_name,str,category,category,99.99,0,Converted successfully
+department_name,str,category,category,99.97,0,Converted successfully
+class_name,str,category,category,99.91,0,Converted successfully

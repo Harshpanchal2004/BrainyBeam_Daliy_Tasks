@@ -1,0 +1,18 @@
+validation_check,status,details
+Row count preserved,PASS,"Original: 23486, Cleaned: 23486"
+Column names standardized,PASS,All columns must use lowercase snake_case
+No duplicate column names,PASS,Duplicate columns: 0
+No unhandled missing values,PASS,Remaining missing values: 0
+Record IDs are unique,PASS,Duplicate record IDs: 0
+Age range valid,PASS,Required range: 13 to 120
+Rating range valid,PASS,Required range: 1 to 5
+Feedback count valid,PASS,Feedback count must be zero or positive
+Recommendation values valid,PASS,Only True and False are allowed
+record_id values preserved,PASS,Compared with original column: Unnamed: 0
+clothing_id values preserved,PASS,Compared with original column: Clothing ID
+age values preserved,PASS,Compared with original column: Age
+rating values preserved,PASS,Compared with original column: Rating
+recommended_ind values preserved,PASS,Compared with original column: Recommended IND
+positive_feedback_count values preserved,PASS,Compared with original column: Positive Feedback Count
+Original title text preserved,PASS,Non-missing title values compared
+Original review text preserved,PASS,Non-missing review values compared

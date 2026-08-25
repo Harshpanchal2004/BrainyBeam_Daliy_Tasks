@@ -1,0 +1,12 @@
+column_name,current_dtype,detected_type,confidence,reason
+record_id,int64,integer,100.0,Already integer
+clothing_id,int64,integer,100.0,Already integer
+age,int64,integer,100.0,Already integer
+title,str,string,100.0,Free text or unique text detected
+review_text,str,string,100.0,Free text or unique text detected
+rating,int64,integer,100.0,Already integer
+recommended_ind,int64,boolean,100.0,Only 0 and 1 values detected
+positive_feedback_count,int64,integer,100.0,Already integer
+division_name,str,category,99.99,Repeated categories detected
+department_name,str,category,99.97,Repeated categories detected
+class_name,str,category,99.91,Repeated categories detected
