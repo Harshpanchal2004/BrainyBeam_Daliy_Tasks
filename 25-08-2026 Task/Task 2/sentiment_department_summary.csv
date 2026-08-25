@@ -1,0 +1,7 @@
+Department Name,Total_Reviews,Average_Rating,Recommendation_Rate,Average_Sentiment_Raw,Average_Sentiment_MinMax,Positive_Reviews_Pct,Negative_Reviews_Pct
+Bottoms,3799,4.2888,85.13,0.7657,0.877,88.1548,3.2377
+Dresses,6319,4.1508,80.82,0.7195,0.8526,84.2538,4.4627
+Intimate,1735,4.2801,85.01,0.7485,0.8679,87.3775,3.9769
+Jackets,1032,4.2645,83.62,0.7549,0.8713,86.9186,4.9419
+Tops,10468,4.1722,81.52,0.716,0.8508,84.0466,4.7574
+Trend,119,3.8151,73.95,0.5826,0.7803,73.1092,9.2437

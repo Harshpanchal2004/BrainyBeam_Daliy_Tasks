@@ -1,0 +1,10 @@
+,Rating,Recommended IND,Positive Feedback Count,Age,Review_Word_Count,Sentiment_Score_Raw,Sentiment_Score_MinMax,Sentiment_Score_Standardized,Sentiment_Intensity
+Rating,1.0,0.7923,-0.065,0.0268,-0.0792,0.7861,0.7861,0.7861,0.7288
+Recommended IND,0.7923,1.0,-0.069,0.0306,-0.048,0.7642,0.7642,0.7642,0.7083
+Positive Feedback Count,-0.065,-0.069,1.0,0.0431,0.2055,-0.0505,-0.0505,-0.0505,-0.0393
+Age,0.0268,0.0306,0.0431,1.0,0.0222,0.0255,0.0255,0.0255,0.0306
+Review_Word_Count,-0.0792,-0.048,0.2055,0.0222,1.0,0.0549,0.0549,0.0549,0.0524
+Sentiment_Score_Raw,0.7861,0.7642,-0.0505,0.0255,0.0549,1.0,1.0,1.0,0.8744
+Sentiment_Score_MinMax,0.7861,0.7642,-0.0505,0.0255,0.0549,1.0,1.0,1.0,0.8744
+Sentiment_Score_Standardized,0.7861,0.7642,-0.0505,0.0255,0.0549,1.0,1.0,1.0,0.8744
+Sentiment_Intensity,0.7288,0.7083,-0.0393,0.0306,0.0524,0.8744,0.8744,0.8744,1.0

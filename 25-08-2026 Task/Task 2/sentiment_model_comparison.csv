@@ -1,0 +1,4 @@
+Model Architecture,Test Accuracy,Weighted F1-Score,Rating Correlation (r),Inference Speed (rec/sec)
+NLTK VADER (Rule-based Lexicon),0.7582,0.7065,0.391,"~12,500"
+PyTorch BiLSTM with Attention (Fine-Tuned),0.8401,0.8229,0.75,"~3,800"
+Ensemble (BiLSTM + VADER),0.8512,0.8354,0.7762,"~2,900"
