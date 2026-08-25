@@ -1,0 +1,11 @@
+Column,Original Unique Values,Cleaned Unique Values,Unique Information Preserved
+Clothing ID,1206,1206,True
+Age,77,77,True
+Title,13994,13994,True
+Review Text,22635,22635,True
+Rating,5,5,True
+Recommended IND,2,2,True
+Positive Feedback Count,82,82,True
+Division Name,4,4,True
+Department Name,7,7,True
+Class Name,21,21,True

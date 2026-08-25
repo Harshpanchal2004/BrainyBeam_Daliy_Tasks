@@ -1,0 +1,11 @@
+Column,Original Data Type,Cleaned Data Type,Data Type Preserved
+Clothing ID,int64,int64,True
+Age,int64,int64,True
+Title,str,str,True
+Review Text,str,str,True
+Rating,int64,int64,True
+Recommended IND,int64,int64,True
+Positive Feedback Count,int64,int64,True
+Division Name,str,str,True
+Department Name,str,str,True
+Class Name,str,str,True

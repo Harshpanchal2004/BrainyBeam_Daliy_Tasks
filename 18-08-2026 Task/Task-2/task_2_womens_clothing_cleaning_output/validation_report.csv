@@ -1,0 +1,8 @@
+Validation Check,Result
+Row count is correct,True
+Output matches expected data,True
+Critical columns preserved,True
+Data types preserved,True
+Unique information preserved,True
+No duplicate rows remain,True
+No irrelevant columns remain,True

@@ -1,0 +1,13 @@
+Metric,Value
+Original rows,23490
+Original columns,11
+Rows in duplicate groups,49
+Extra duplicate rows removed,25
+Irrelevant columns removed,1
+Removed column names,Unnamed: 0
+Manual-review columns,None
+Final rows,23465
+Final columns,10
+Duplicates remaining,0
+Critical columns preserved,True
+Missing critical columns,None

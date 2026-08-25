@@ -1,0 +1,2 @@
+Column,Detection Type,Reason,Decision
+Unnamed: 0,Index-like column,Contains row numbers instead of business information,Safe to remove
