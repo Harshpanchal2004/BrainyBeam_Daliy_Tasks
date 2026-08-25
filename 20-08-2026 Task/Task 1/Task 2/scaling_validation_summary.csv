@@ -1,0 +1,8 @@
+Validation Check,Status
+Row count preserved,True
+Column count preserved,True
+Age range valid,True
+Positive Feedback Count range valid,True
+No missing values introduced in scaled features,True
+No infinite values introduced,True
+Non-scaled columns unchanged,True

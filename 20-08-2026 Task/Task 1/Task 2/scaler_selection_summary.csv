@@ -1,0 +1,3 @@
+Selection Type,Selected Method,Reason
+Best Overall Input,Original,Highest CV Weighted F1 among all inputs
+Best Required Scaling Technique,MinMaxScaler,Highest CV Weighted F1 among the four scaling techniques
