@@ -1,0 +1,3 @@
+Method,Selected_Segments,Evaluation_Metric,Metric_Value,Smallest_Segment_Percentage,Segmentation_Basis
+K-Means,4,Silhouette Score,0.5415,14.37,Natural Age Distribution
+Decision Tree,5,Cross-Validated ROC-AUC,0.533,5.21,Recommendation Behaviour

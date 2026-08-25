@@ -1,0 +1,6 @@
+Tree_Age_Segment_ID,Minimum_Age,Maximum_Age,Average_Age,Customer_Count,Recommendation_Rate,Average_Rating,Average_Feedback,Customer_Percentage
+1,18.0,25.0,23.04,1223,85.12,4.29,2.09,5.21
+2,26.0,38.0,32.99,8141,80.0,4.14,2.33,34.66
+3,39.0,39.0,39.0,1269,87.31,4.3,2.86,5.4
+4,40.0,53.0,45.99,7920,81.55,4.17,2.51,33.72
+5,54.0,99.0,61.65,4933,85.0,4.28,2.94,21.0
