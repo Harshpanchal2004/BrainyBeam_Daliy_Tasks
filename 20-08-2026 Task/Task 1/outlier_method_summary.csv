@@ -1,0 +1,6 @@
+Method,Detected Records,Action
+IQR – Age,109,Retained
+Z-score – Age,99,Retained
+IQR – Feedback,2147,Log transformation
+Z-score – Feedback,430,Log transformation
+DBSCAN – Combined,50,Flagged and retained
