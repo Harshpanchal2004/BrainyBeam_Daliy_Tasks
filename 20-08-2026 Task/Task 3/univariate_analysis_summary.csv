@@ -1,0 +1,4 @@
+Column,Count,Missing Values,Unique Values,Mean,Median,Standard Deviation,Minimum,Maximum,Skewness,Kurtosis,Outlier Count,Outlier Percentage,Distribution,Kurtosis Interpretation,Recommended Transformation
+Age,23486,0,77,43.1985,41.0,12.2795,18,99,0.5256,-0.1118,109,0.46,Moderately positively skewed,Approximately mesokurtic/normal tails,Mild right skew: sqrt transformation optional
+Rating,23486,0,5,4.196,5.0,1.11,1,5,-1.3135,0.8041,2407,10.25,Highly negatively skewed,Approximately mesokurtic/normal tails,No transformation: discrete/ordinal column
+Positive Feedback Count,23486,0,82,2.5359,1.0,5.7022,0,122,6.473,71.6932,2147,9.14,Highly positively skewed,Leptokurtic: heavy tails/extreme values,Strong right skew: apply log1p transformation
