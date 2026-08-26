@@ -1,0 +1,5 @@
+Column,Unique Categories,Unique Ratio,Selected Strategy
+Division Name,4,0.00017031422975389594,One-Hot Encoding
+Department Name,7,0.0002980499020693179,One-Hot Encoding
+Class Name,21,0.0008941497062079537,Rare Binning + One-Hot Encoding
+Clothing ID,1206,0.051349740270799624,Target and Frequency Encoding

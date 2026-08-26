@@ -1,0 +1,5 @@
+Technique,Generated Features,Interpretability,Feature Explosion Risk,Selected for Final Dataset
+Direct Clothing ID One-Hot,1206,High but excessive,Very High,No
+Frequency Encoding,1,High,Very Low,Yes
+Target Encoding,1,High,Very Low,Yes
+Truncated SVD,20,Medium,Low,No

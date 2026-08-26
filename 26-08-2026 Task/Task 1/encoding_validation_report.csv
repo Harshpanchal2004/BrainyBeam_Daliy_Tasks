@@ -1,0 +1,11 @@
+Validation Check,Result
+Original Rows,23486
+Final Rows,23486
+Original Columns,11
+Final Model Features,36
+Final Columns Including Target,37
+Missing Values,0
+Non-Numeric Features,0
+Duplicate Feature Names,0
+Original Clothing ID Categories,1206
+SVD Components Tested,20
