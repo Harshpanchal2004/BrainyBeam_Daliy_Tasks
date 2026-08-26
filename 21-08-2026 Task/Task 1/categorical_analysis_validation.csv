@@ -1,0 +1,9 @@
+Check,Result
+Original rows,23486
+Cleaned categorical rows,23486
+Encoded rows,23486
+Selected categorical columns,6
+Missing values after cleaning,0
+Encoded missing values,0
+Frequency tables created,6
+Entropy columns analysed,6

@@ -1,0 +1,7 @@
+Importance_Rank,Column,Category_Count,Entropy,Maximum_Entropy,Normalized_Entropy,Importance_Score,Dominant_Category_Percentage,Effective_Categories,Interpretation
+1,Rating,5,1.7499,2.3219,0.7536,75.36,55.91,3.36,High Diversity
+2,Class Name,21,3.2743,4.3923,0.7455,74.55,26.91,9.68,High Diversity
+3,Clothing ID,1206,7.6141,10.236,0.7439,74.39,4.36,195.91,High Diversity
+4,Department Name,7,1.9751,2.8074,0.7036,70.36,44.57,3.93,High Diversity
+5,Recommended IND,2,0.6749,1.0,0.6749,67.49,82.24,1.6,High Diversity
+6,Division Name,4,1.2391,2.0,0.6196,61.96,58.97,2.36,High Diversity

@@ -1,0 +1,7 @@
+Column,Unique_Categories,Non_Missing_Values,Cardinality_Ratio,Cardinality_Level
+Division Name,3,23472,0.0001,Low Cardinality
+Department Name,6,23472,0.0003,Low Cardinality
+Class Name,20,23472,0.0009,Medium Cardinality
+Rating,5,23486,0.0002,Low Cardinality
+Recommended IND,2,23486,0.0001,Low Cardinality
+Clothing ID,1206,23486,0.0513,High Cardinality

@@ -1,0 +1,7 @@
+Column,Unique_Categories,Encoding_Method
+Division Name,4,One-Hot Encoding
+Department Name,7,One-Hot Encoding
+Class Name,21,Rare Grouping + One-Hot Encoding
+Rating,5,One-Hot Encoding
+Recommended IND,2,One-Hot Encoding
+Clothing ID,1206,Frequency Encoding
