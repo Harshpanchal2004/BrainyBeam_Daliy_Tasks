@@ -1,0 +1,5 @@
+Variable 1,Variable 2,Spearman Correlation,P-value
+Positive Feedback Count,Rating,-0.0683,0.0
+Positive Feedback Count,Recommended IND,-0.0809,0.0
+Review Length,Rating,-0.0923,0.0
+Review Length,Recommended IND,-0.0423,0.0

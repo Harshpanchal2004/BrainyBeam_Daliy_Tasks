@@ -1,0 +1,7 @@
+Statistical Test,Statistic,P-value
+Rating vs Recommendation — Chi-square,16722.503172306744,8.991374791404909e-11
+Rating vs Recommendation — Cramér's V,0.8437298456684337,
+Rating vs Recommendation — Spearman,0.6935089666964797,0.0
+Department Ratings — Kruskal-Wallis,88.33058900156509,6.730523595778053e-17
+Department vs Recommendation — Chi-square,53.29284844920312,1.0242849041350807e-09
+Department vs Recommendation — Cramér's V,0.04487467138252291,

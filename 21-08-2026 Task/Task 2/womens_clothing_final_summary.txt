@@ -1,0 +1,50 @@
+
+WOMEN'S CLOTHING: TRENDS AND ANALYSIS
+FINAL ANALYTICAL SUMMARY
+--------------------------------------------------
+
+Dataset:
+- Total records: 23,486
+- Average rating: 4.20
+- Positive rating rate: 77.53%
+- Recommendation rate: 82.24%
+
+Rating and Recommendation Relationship:
+- Chi-square statistic: 16722.5032
+- Chi-square p-value: 8.991374791404909e-11
+- Cramer's V: 0.8437
+- Spearman correlation: 0.6935
+
+Gaussian Mixture Modeling:
+- Selected clusters: 7
+- Covariance type: full
+- Selected model BIC: -183289.48
+- Selected model AIC: -184466.84
+
+Anomaly Analysis:
+- Total anomalies: 467
+- Overall anomaly rate: 1.99%
+- Rating-recommendation contradictions:
+  303
+- Contradiction rate: 1.29%
+
+Department Insights:
+- Highest-rated department:
+  Unknown
+- Lowest-rated department:
+  Trend
+- Highest recommendation department:
+  Unknown
+- Highest anomaly-rate department:
+  Trend
+
+Final Conclusion:
+Ratings and recommendations have a statistically significant
+and strong positive association. Most reviews are positive and
+most customers recommend the products. Gaussian mixture modeling
+identified distinct probabilistic customer-review segments using
+rating, recommendation, age, feedback engagement and review
+length. Anomaly detection revealed rare model patterns,
+rating-recommendation contradictions, uncertain assignments and
+multiple numerical extremes. Department, class and age-group
+analysis provided deeper product and customer trend insights.
