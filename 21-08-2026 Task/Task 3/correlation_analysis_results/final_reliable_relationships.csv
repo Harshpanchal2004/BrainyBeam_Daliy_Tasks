@@ -1,0 +1,2 @@
+Variable 1,Variable 2,Pearson,Pearson p-value,Spearman,Spearman p-value,Kendall,Kendall p-value,Direction Consistent,Absolute Pearson,Pearson Strength,Spearman Strength,Kendall Strength,All Metrics Significant,All Metrics Practical
+Rating,Recommended IND,0.7923362879285761,0.0,0.6935089666964798,0.0,0.6483983734834144,0.0,True,0.7923362879285761,Strong,Moderate,Moderate,True,True

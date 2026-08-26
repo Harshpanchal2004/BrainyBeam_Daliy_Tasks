@@ -1,0 +1,4 @@
+Method,Variable 1,Variable 2,Correlation,Absolute Correlation,p-value,Direction,Strength
+Pearson,Rating,Recommended IND,0.7923362879285761,0.7923362879285761,0.0,Positive,Strong
+Spearman,Rating,Recommended IND,0.6935089666964798,0.6935089666964798,0.0,Positive,Moderate
+Kendall,Rating,Recommended IND,0.6483983734834144,0.6483983734834144,0.0,Positive,Moderate
