@@ -1,0 +1,5 @@
+Column,Total Records,Unique Categories,Most Frequent Category,Top Category Frequency,Top Category Percentage,Least Frequent Category,Least Category Frequency
+Division Name,23486,4,General,13850,58.97,Unknown,14
+Department Name,23486,7,Tops,10468,44.57,Unknown,14
+Class Name,23486,21,Dresses,6319,26.91,Chemises,1
+Recommendation Status,23486,2,Recommended,19314,82.24,Not Recommended,4172

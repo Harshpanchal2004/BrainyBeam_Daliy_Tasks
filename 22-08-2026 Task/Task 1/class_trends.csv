@@ -1,0 +1,21 @@
+Class Name,Review_Count,Average_Rating,Median_Rating,Recommendation_Rate,Average_Positive_Feedback,Total_Positive_Feedback,Eligible_for_Ranking
+Blouses,3097,4.15,5.0,81.01,2.73,8440,True
+Casual bottoms,2,4.5,4.5,100.0,0.0,0,False
+Chemises,1,4.0,4.0,100.0,0.0,0,False
+Dresses,6319,4.15,5.0,80.82,3.09,19510,True
+Fine gauge,1100,4.26,5.0,83.73,2.01,2215,True
+Intimates,154,4.28,5.0,85.71,0.78,120,True
+Jackets,704,4.3,5.0,84.52,2.83,1990,True
+Jeans,1147,4.36,5.0,88.14,1.76,2018,True
+Knits,4843,4.16,5.0,81.77,2.39,11598,True
+Layering,146,4.38,5.0,88.36,1.32,192,True
+Legwear,165,4.28,5.0,86.06,1.27,210,True
+Lounge,691,4.3,5.0,85.96,2.32,1604,True
+Outerwear,328,4.2,5.0,81.71,2.82,926,True
+Pants,1388,4.27,5.0,83.29,2.4,3327,True
+Shorts,317,4.26,5.0,83.91,1.68,531,True
+Skirts,945,4.25,5.0,84.55,2.29,2167,True
+Sleep,228,4.29,5.0,85.53,1.75,399,True
+Sweaters,1428,4.18,5.0,80.04,2.21,3154,True
+Swim,350,4.2,5.0,80.57,2.14,750,True
+Trend,119,3.82,4.0,73.95,3.37,401,True

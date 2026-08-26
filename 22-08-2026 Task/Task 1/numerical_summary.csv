@@ -1,0 +1,4 @@
+Column,Count,Missing,Mean,Median,Mode,Variance,Standard Deviation,Minimum,Q1,Q3,Maximum,Range,IQR,Skewness,Kurtosis
+Age,23486,0,43.199,41.0,39,150.787,12.28,18,34.0,52.0,99,81,18.0,0.526,-0.112
+Rating,23486,0,4.196,5.0,5,1.232,1.11,1,4.0,5.0,5,4,1.0,-1.314,0.804
+Positive Feedback Count,23486,0,2.536,1.0,0,32.515,5.702,0,0.0,3.0,122,122,3.0,6.473,71.693

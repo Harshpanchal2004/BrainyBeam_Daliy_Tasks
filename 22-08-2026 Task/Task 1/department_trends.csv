@@ -1,0 +1,7 @@
+Department Name,Review_Count,Average_Rating,Median_Rating,Recommendation_Rate,Average_Positive_Feedback,Total_Positive_Feedback,Eligible_for_Ranking
+Bottoms,3799,4.29,5.0,85.13,2.12,8043,True
+Dresses,6319,4.15,5.0,80.82,3.09,19510,True
+Intimate,1735,4.28,5.0,85.01,1.89,3275,True
+Jackets,1032,4.26,5.0,83.62,2.83,2916,True
+Tops,10468,4.17,5.0,81.52,2.43,25407,True
+Trend,119,3.82,4.0,73.95,3.37,401,True

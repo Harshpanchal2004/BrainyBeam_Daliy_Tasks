@@ -1,0 +1,109 @@
+==============================================================================
+WOMEN'S CLOTHING: TRENDS AND ANALYSIS IN THE FASHION INDUSTRY
+AUTOMATED STATISTICAL AND NLP SUMMARY REPORT
+==============================================================================
+
+DATASET OVERVIEW
+------------------------------------------------------------------------------
+Total records analysed: 23,486
+Total analytical columns: 10
+
+1. NUMERICAL STATISTICAL INSIGHTS
+------------------------------------------------------------------------------
+
+Age:
+Age has an average value of 43.20, a median of 41.00, and a mode of 39. Values range from 18.00 to 99.00. The middle 50% of observations lie between 34.00 and 52.00. The mean is greater than the median, suggesting that some higher values are lifting the average. The distribution is moderately skewed to the right. It shows moderate relative variability (coefficient of variation: 28.4%). Its kurtosis indicates a tail pattern reasonably close to a normal distribution. No missing values were found in this column.
+
+Rating:
+Rating has an average value of 4.20, a median of 5.00, and a mode of 5. Values range from 1.00 to 5.00. The middle 50% of observations lie between 4.00 and 5.00. The mean is lower than the median, suggesting that some lower values are pulling down the average. The distribution is strongly skewed to the left. It shows moderate relative variability (coefficient of variation: 26.5%). Its kurtosis indicates a tail pattern reasonably close to a normal distribution. No missing values were found in this column.
+
+Positive Feedback Count:
+Positive Feedback Count has an average value of 2.54, a median of 1.00, and a mode of 0. Values range from 0.00 to 122.00. The middle 50% of observations lie between 0.00 and 3.00. The mean is greater than the median, suggesting that some higher values are lifting the average. The distribution is strongly skewed to the right. It shows high relative variability (coefficient of variation: 224.8%). Its kurtosis indicates heavy tails, suggesting a greater possibility of extreme values. No missing values were found in this column.
+
+2. FASHION-DOMAIN INTERPRETATION
+------------------------------------------------------------------------------
+
+• Customer Age: The average reviewer age is 43.2 years, while the median age is 41 years. Half of the reviewers are approximately between 34 and 52 years old.
+
+• Customer Ratings: The average product rating is 4.20 out of 5, and the most common rating is 5. Therefore, overall customer satisfaction appears high.
+
+• Positive Feedback: Reviews receive an average of 2.54 positive feedback votes, while the median is 1. If the mean is considerably above the median, a small number of highly useful reviews are increasing the overall average.
+
+
+3. CATEGORICAL DISTRIBUTION INSIGHTS
+------------------------------------------------------------------------------
+
+Division Name:
+Division Name contains 4 distinct categories. The most common category is 'General', appearing in 13,850 records (58.97% of the dataset). This category clearly dominates the distribution.
+
+Department Name:
+Department Name contains 7 distinct categories. The most common category is 'Tops', appearing in 10,468 records (44.57% of the dataset). This category has a strong presence, although other categories also contribute meaningfully.
+
+Class Name:
+Class Name contains 21 distinct categories. The most common category is 'Dresses', appearing in 6,319 records (26.91% of the dataset). The distribution is relatively diverse, with no single category holding a majority share.
+
+Recommendation Status:
+Recommendation Status contains 2 distinct categories. The most common category is 'Recommended', appearing in 19,314 records (82.24% of the dataset). This category clearly dominates the distribution.
+
+Recommendation Trend:
+82.24% of reviews recommend the product, while 17.76% do not. This indicates a strong positive customer response.
+
+
+4. NLP REVIEW-TEXT INSIGHTS
+------------------------------------------------------------------------------
+
+• Review Text is available for 22,641 records, providing 96.40% text coverage for NLP analysis.
+
+• An average review contains approximately 60.20 words, while the median review contains 59 words.
+
+• The most frequent meaningful review terms include dress, love, size, fit, like.
+
+• High-rating reviews commonly use terms such as dress, love, size, fit, wear.
+
+• Low-rating reviews commonly use terms such as dress, like, fabric, fit, size, highlighting the language associated with customer dissatisfaction.
+
+• Low-rating reviews are longer on average (60.87 words) than high-rating reviews (59.45 words), suggesting that dissatisfied customers provide more detailed explanations.
+
+
+5. DEPARTMENT TRENDS
+------------------------------------------------------------------------------
+
+• The most reviewed department name is 'Tops', with 10,468 reviews.
+
+• 'Bottoms' has the highest average rating of 4.29 out of 5.
+
+• 'Trend' has the lowest average rating of 3.82 out of 5.
+
+• 'Bottoms' has the highest recommendation rate at 85.13%.
+
+• Reviews in 'Trend' receive the highest average positive feedback count of 3.37.
+
+
+6. CLOTHING-CLASS TRENDS
+------------------------------------------------------------------------------
+
+• The most reviewed class name is 'Dresses', with 6,319 reviews.
+
+• 'Layering' has the highest average rating of 4.38 out of 5.
+
+• 'Trend' has the lowest average rating of 3.82 out of 5.
+
+• 'Layering' has the highest recommendation rate at 88.36%.
+
+• Reviews in 'Trend' receive the highest average positive feedback count of 3.37.
+
+
+7. RATING AND RECOMMENDATION RELATIONSHIP
+------------------------------------------------------------------------------
+
+Reviews rated 1 have a 1.90% recommendation rate, compared with 99.81% for reviews rated 5. Recommendation rate increases substantially as customer rating increases.
+
+
+8. AUTOMATED CONCLUSION
+------------------------------------------------------------------------------
+
+The dataset shows an overall average rating of 4.20 out of 5. Approximately 82.24% of reviews recommend the products, indicating generally positive customer satisfaction. 'Tops' is the most actively reviewed department. NLP analysis reveals the product attributes and experiences most frequently discussed by satisfied and dissatisfied customers.
+
+==============================================================================
+END OF AUTOMATED REPORT
+==============================================================================
