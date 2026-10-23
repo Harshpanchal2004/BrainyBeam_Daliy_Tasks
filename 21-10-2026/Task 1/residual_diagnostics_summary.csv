@@ -1,0 +1,2 @@
+Mean_Residual,Std_Residual,Min_Residual,Max_Residual,Skewness,Kurtosis,Jarque_Bera_Stat,Jarque_Bera_p_val,Max_Cooks_Distance,High_Leverage_Threshold_2p_n
+0.0,28.0552,-114.5255,133.1275,0.0275,0.1461,23.8219,7e-06,0.006095,0.000938

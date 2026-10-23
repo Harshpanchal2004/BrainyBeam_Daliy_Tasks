@@ -1,0 +1,4 @@
+Statistical Test,Test Statistic,p-value,F-Statistic,F p-value,Decision (alpha=0.05)
+Breusch-Pagan LM Test,766.0725,4.0436e-158,79.1556,8.1173e-161,Reject H0 (Heteroscedasticity Detected)
+White's General Test,900.9222,5.5780e-148,14.5984,2.6571e-151,Reject H0 (Heteroscedasticity Detected)
+Goldfeld-Quandt Test,0.9755,1.7858e-01,0.9755,1.7858e-01,Fail to Reject H0

@@ -1,0 +1,5 @@
+Model,RMSE,MAE,R2_Score,Standard_Error_Type,Residual_Variance_Pattern
+Baseline OLS (Uncorrected),28.0552,22.2974,0.9636,Conventional OLS (Vulnerable to Heteroscedasticity),Mild Fan / Funnel Heteroscedasticity
+OLS + HC3 Robust Covariance,28.0552,22.2974,0.9636,MacKinnon-White HC3 Sandwich (Asymptotically Valid),Unbiased Inference under Heteroscedasticity
+Log-Transformed Target (ln(Spend)),34.7341,26.0115,0.9443,Log-Scale Homoscedastic Standard Errors,Variance Stabilized / Symmetrical Residuals
+Weighted Least Squares (WLS),28.0862,22.299,0.9636,Inverse-Variance Weighted Estimator (BLUE under Het),Heteroscedasticity Efficiently Downweighted
