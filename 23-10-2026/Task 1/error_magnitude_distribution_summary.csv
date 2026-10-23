@@ -1,0 +1,5 @@
+Error_Magnitude_Category,Count,Percentage,Mean_Actual_Spend,Mean_Predicted_Spend,Mean_Absolute_Error,Mean_Percentage_Error
+Low (< $15),9790,41.72,683.52,683.57,7.32,1.12
+Moderate ($15 - $35),8969,38.22,699.3,699.49,23.91,3.56
+High ($35 - $60),3951,16.84,734.56,734.44,44.43,6.3
+Extreme Outlier (> $60),755,3.22,800.85,798.7,70.15,9.11

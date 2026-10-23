@@ -1,0 +1,14 @@
+Subgroup,Sample_Count,Mean_Residual,Std_Residual,Mean_Absolute_Error,R2_Score,Factor_Category
+Gen Z / Young (18-30),3337,0.4295,23.4798,18.64,0.9356,Age Cohort
+Early Career (31-45),11014,-0.0332,26.1959,20.92,0.93,Age Cohort
+Mature (46-60),6680,-0.2366,29.5166,23.54,0.9207,Age Cohort
+Senior (61+),2434,0.211,33.1032,26.6,0.9108,Age Cohort
+Bottoms,3798,-0.726,27.6818,21.94,0.9605,Department
+Dresses,6312,0.0461,28.6183,22.65,0.9579,Department
+Intimate,1735,-0.1408,25.6967,20.57,0.967,Department
+Jackets,1032,0.5249,28.6856,23.24,0.9632,Department
+Tops,10469,0.186,27.1651,21.6,0.9646,Department
+Trend,119,1.8635,26.5466,20.82,0.9629,Department
+Low App Usage (< 11.5m),4404,-0.1215,25.6596,20.29,0.9634,App Usage Tier
+Average App Usage (11.5-13m),12054,-0.0813,27.4679,21.85,0.9605,App Usage Tier
+High App Usage (> 13m),7007,0.2162,28.9936,23.11,0.9608,App Usage Tier

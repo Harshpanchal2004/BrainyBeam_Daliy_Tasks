@@ -1,0 +1,4 @@
+Factor_Tested,F_Statistic,p_value,Systematic_Bias_Decision
+Age_Cohort,0.4856,6.9230e-01,No Systematic Bias (Homogeneous Errors)
+Department Name,0.8159,5.3806e-01,No Systematic Bias (Homogeneous Errors)
+App_Usage_Cohort,0.3097,7.3364e-01,No Systematic Bias (Homogeneous Errors)
