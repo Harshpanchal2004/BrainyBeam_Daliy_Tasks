@@ -1,0 +1,4 @@
+Interaction Term,Coefficient,Std Error,t-Statistic,p-value,Decision
+Time_on_App * Length_of_Membership,4.0841,0.1456,28.05,2.7931e-170,Statistically Significant (p < 0.001)
+Annual_Orders * Avg_Order_Value,-0.0019,0.0025,-0.75,0.4510,Not Significant in OLS (p > 0.05)
+Age * Rating,-0.0127,0.0044,-2.87,0.0042,Not Significant in OLS (p > 0.05)

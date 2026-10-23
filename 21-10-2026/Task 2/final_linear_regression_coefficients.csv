@@ -1,0 +1,10 @@
+Feature,Coefficient,Feature_Type,Interpretation_Impact_on_Spend
+Intercept,-1020.38,Constant,Baseline annual customer spending in dollars
+Length_of_Membership,14.5003,Main Effect,Spend increases by $64.88 for each additional year of membership tenure
+Time_on_App,23.5532,Main Effect,Spend increases by $37.99 for each additional minute spent weekly on mobile app
+Avg_Session_Length,25.0893,Main Effect,Spend increases by $25.12 for each additional minute of average browsing session
+Time_on_Website,-0.1167,Main Effect,Spend decreases marginally by $0.14 for weekly desktop website minutes
+Annual_Orders,17.8727,Main Effect,Spend increases by $18.06 for each additional clothing order placed annually
+Avg_Order_Value,1.2085,Main Effect,Spend increases by $1.21 for each dollar increase in average order basket value
+Age,1.507,Main Effect,Spend increases by $1.51 for each additional year of customer age
+Inter_App_x_Tenure,4.0471,Interaction Term,Synergy: Higher app usage amplifies spending gains among loyal long-tenure customers

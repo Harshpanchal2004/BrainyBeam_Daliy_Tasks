@@ -1,0 +1,13 @@
+Feature,F_Statistic,Mutual_Info,Lasso_Abs_Coef,SFS_Selected
+Length_of_Membership,58673.3,0.6219,76.66,True
+Annual_Orders,35216.7,0.4602,37.756,True
+Age,34751.2,0.4498,18.479,True
+Time_on_App,3171.7,0.0665,39.855,True
+Avg_Order_Value,3105.8,0.0972,40.943,True
+Avg_Session_Length,1493.4,0.04,22.695,True
+Rating,1082.0,0.028,0.281,True
+Recommended IND,777.6,0.0186,0.0,False
+Time_on_Website,89.9,0.0,0.076,False
+Positive Feedback Count,52.5,0.0016,0.18,False
+Review_Length,37.6,0.003,0.071,False
+Review_Word_Count,34.6,0.0,0.087,False

@@ -1,0 +1,11 @@
+Feature,Mean_Absolute_SHAP_Impact,SHAP_Rank
+Length_of_Membership,89.1164,1
+Avg_Order_Value,34.0844,2
+Time_on_App,33.5368,3
+Annual_Orders,22.3261,4
+Avg_Session_Length,15.7861,5
+Age,3.5439,6
+Rating,0.3194,7
+Time_on_Website,0.3097,8
+Positive Feedback Count,0.1328,9
+Recommended IND,0.1151,10

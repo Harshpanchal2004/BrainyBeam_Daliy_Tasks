@@ -1,0 +1,11 @@
+Feature,DT_MDI_Importance,RF_MDI_Importance,Permutation_Importance,Linear_Reg_Std_Coef,DT_Rank,RF_Rank,Perm_Rank,LR_Rank,Consensus_Mean_Rank
+Length_of_Membership,0.7775,0.7151,0.6921,0.3226,1,1,1,1,1.0
+Time_on_App,0.0815,0.0947,0.1103,0.1676,2,2,2,3,2.25
+Avg_Order_Value,0.0715,0.0817,0.1103,0.1712,3,3,2,2,2.5
+Annual_Orders,0.0683,0.071,0.0569,0.159,4,4,4,4,4.0
+Avg_Session_Length,0.0012,0.0269,0.0261,0.0968,5,5,5,5,5.0
+Age,0.0,0.0069,0.0044,0.0779,6,6,6,6,6.0
+Rating,0.0,0.0006,0.0,0.0017,6,9,7,7,7.25
+Positive Feedback Count,0.0,0.0009,0.0,0.0013,6,8,7,8,7.25
+Recommended IND,0.0,0.0001,-0.0,0.001,6,10,7,9,8.0
+Time_on_Website,0.0,0.0022,-0.0001,0.0009,6,7,10,10,8.25

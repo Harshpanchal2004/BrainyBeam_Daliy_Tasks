@@ -1,0 +1,13 @@
+Feature,Correlation_with_Target,VIF,Multicollinearity_Status
+Length_of_Membership,0.8452,5.2,High Risk (VIF > 5.0)
+Annual_Orders,0.7747,2.9,Acceptable
+Age,0.7726,3.91,Acceptable
+Time_on_App,0.3451,1.17,Acceptable
+Avg_Order_Value,0.3419,1.02,Acceptable
+Avg_Session_Length,0.2446,1.02,Acceptable
+Rating,0.21,3.12,Acceptable
+Recommended IND,0.1791,2.72,Acceptable
+Positive Feedback Count,0.0472,1.05,Acceptable
+Review_Length,0.04,68.77,High Risk (VIF > 5.0)
+Review_Word_Count,0.0384,68.67,High Risk (VIF > 5.0)
+Time_on_Website,-0.0618,1.03,Acceptable

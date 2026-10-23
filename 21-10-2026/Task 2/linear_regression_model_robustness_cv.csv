@@ -1,0 +1,101 @@
+Model_Specification,Iteration,R2_Score,RMSE,MAE
+1. Baseline Linear Regression (Selected Features),1,0.9643,27.7426,22.0568
+1. Baseline Linear Regression (Selected Features),2,0.9647,27.9937,22.3248
+1. Baseline Linear Regression (Selected Features),3,0.9643,27.5695,22.0723
+1. Baseline Linear Regression (Selected Features),4,0.9624,28.3264,22.4107
+1. Baseline Linear Regression (Selected Features),5,0.9623,28.7212,22.7001
+1. Baseline Linear Regression (Selected Features),6,0.9647,27.8768,22.1518
+1. Baseline Linear Regression (Selected Features),7,0.9648,27.8503,22.2218
+1. Baseline Linear Regression (Selected Features),8,0.9639,27.8716,22.1659
+1. Baseline Linear Regression (Selected Features),9,0.9619,28.4499,22.5855
+1. Baseline Linear Regression (Selected Features),10,0.9626,28.2795,22.4173
+1. Baseline Linear Regression (Selected Features),11,0.9635,28.2619,22.393
+1. Baseline Linear Regression (Selected Features),12,0.9645,28.1684,22.4717
+1. Baseline Linear Regression (Selected Features),13,0.9633,27.7842,22.0365
+1. Baseline Linear Regression (Selected Features),14,0.963,28.0831,22.3189
+1. Baseline Linear Regression (Selected Features),15,0.9636,28.0531,22.3464
+1. Baseline Linear Regression (Selected Features),16,0.9624,28.2985,22.5966
+1. Baseline Linear Regression (Selected Features),17,0.9655,27.4494,21.9767
+1. Baseline Linear Regression (Selected Features),18,0.9626,28.2591,22.3895
+1. Baseline Linear Regression (Selected Features),19,0.9631,28.2318,22.387
+1. Baseline Linear Regression (Selected Features),20,0.9643,28.0921,22.2004
+1. Baseline Linear Regression (Selected Features),21,0.9644,27.9008,22.1571
+1. Baseline Linear Regression (Selected Features),22,0.9636,28.125,22.2544
+1. Baseline Linear Regression (Selected Features),23,0.9635,28.2571,22.4881
+1. Baseline Linear Regression (Selected Features),24,0.9636,27.8139,22.1498
+1. Baseline Linear Regression (Selected Features),25,0.9628,28.2595,22.512
+2. Interaction Linear Regression (with App x Tenure),1,0.9653,27.3452,21.7297
+2. Interaction Linear Regression (with App x Tenure),2,0.9656,27.6498,21.9751
+2. Interaction Linear Regression (with App x Tenure),3,0.9653,27.1576,21.6588
+2. Interaction Linear Regression (with App x Tenure),4,0.964,27.7099,21.9857
+2. Interaction Linear Regression (with App x Tenure),5,0.9635,28.2385,22.3535
+2. Interaction Linear Regression (with App x Tenure),6,0.9656,27.5423,21.8956
+2. Interaction Linear Regression (with App x Tenure),7,0.9664,27.2372,21.6866
+2. Interaction Linear Regression (with App x Tenure),8,0.9652,27.3738,21.7759
+2. Interaction Linear Regression (with App x Tenure),9,0.963,28.0195,22.1684
+2. Interaction Linear Regression (with App x Tenure),10,0.9636,27.8909,22.1555
+2. Interaction Linear Regression (with App x Tenure),11,0.9646,27.8142,22.0136
+2. Interaction Linear Regression (with App x Tenure),12,0.9657,27.6993,22.1069
+2. Interaction Linear Regression (with App x Tenure),13,0.9645,27.3232,21.675
+2. Interaction Linear Regression (with App x Tenure),14,0.9641,27.6674,21.9565
+2. Interaction Linear Regression (with App x Tenure),15,0.9648,27.5801,21.9414
+2. Interaction Linear Regression (with App x Tenure),16,0.9636,27.8478,22.1597
+2. Interaction Linear Regression (with App x Tenure),17,0.9666,27.0076,21.5905
+2. Interaction Linear Regression (with App x Tenure),18,0.9636,27.8686,22.1014
+2. Interaction Linear Regression (with App x Tenure),19,0.9646,27.6479,21.9563
+2. Interaction Linear Regression (with App x Tenure),20,0.9653,27.7042,21.8826
+2. Interaction Linear Regression (with App x Tenure),21,0.9654,27.5171,21.8324
+2. Interaction Linear Regression (with App x Tenure),22,0.9651,27.5402,21.8314
+2. Interaction Linear Regression (with App x Tenure),23,0.9648,27.7677,22.0233
+2. Interaction Linear Regression (with App x Tenure),24,0.9647,27.3813,21.8469
+2. Interaction Linear Regression (with App x Tenure),25,0.9638,27.8876,22.1697
+3. Ridge Regression (L2 Regularized),1,0.9653,27.3452,21.7297
+3. Ridge Regression (L2 Regularized),2,0.9656,27.65,21.9753
+3. Ridge Regression (L2 Regularized),3,0.9653,27.1577,21.6587
+3. Ridge Regression (L2 Regularized),4,0.964,27.7094,21.9854
+3. Ridge Regression (L2 Regularized),5,0.9635,28.2384,22.3537
+3. Ridge Regression (L2 Regularized),6,0.9656,27.5426,21.896
+3. Ridge Regression (L2 Regularized),7,0.9664,27.2369,21.6865
+3. Ridge Regression (L2 Regularized),8,0.9652,27.3736,21.7757
+3. Ridge Regression (L2 Regularized),9,0.963,28.0196,22.1682
+3. Ridge Regression (L2 Regularized),10,0.9636,27.8911,22.1556
+3. Ridge Regression (L2 Regularized),11,0.9646,27.8141,22.0135
+3. Ridge Regression (L2 Regularized),12,0.9657,27.6993,22.1069
+3. Ridge Regression (L2 Regularized),13,0.9645,27.3232,21.6751
+3. Ridge Regression (L2 Regularized),14,0.9641,27.6675,21.9565
+3. Ridge Regression (L2 Regularized),15,0.9648,27.58,21.9413
+3. Ridge Regression (L2 Regularized),16,0.9636,27.8477,22.1595
+3. Ridge Regression (L2 Regularized),17,0.9666,27.0076,21.5903
+3. Ridge Regression (L2 Regularized),18,0.9636,27.8686,22.1016
+3. Ridge Regression (L2 Regularized),19,0.9646,27.6475,21.9561
+3. Ridge Regression (L2 Regularized),20,0.9653,27.7045,21.8829
+3. Ridge Regression (L2 Regularized),21,0.9654,27.5173,21.8326
+3. Ridge Regression (L2 Regularized),22,0.9651,27.5399,21.8312
+3. Ridge Regression (L2 Regularized),23,0.9648,27.7676,22.023
+3. Ridge Regression (L2 Regularized),24,0.9647,27.3813,21.8471
+3. Ridge Regression (L2 Regularized),25,0.9638,27.8878,22.1698
+4. Lasso Regression (L1 Regularized),1,0.965,27.476,21.8194
+4. Lasso Regression (L1 Regularized),2,0.9649,27.8969,22.2019
+4. Lasso Regression (L1 Regularized),3,0.9646,27.4327,21.8596
+4. Lasso Regression (L1 Regularized),4,0.9634,27.9423,22.1899
+4. Lasso Regression (L1 Regularized),5,0.9628,28.4974,22.6008
+4. Lasso Regression (L1 Regularized),6,0.9649,27.7978,22.085
+4. Lasso Regression (L1 Regularized),7,0.9658,27.4809,21.9134
+4. Lasso Regression (L1 Regularized),8,0.9647,27.5377,21.9263
+4. Lasso Regression (L1 Regularized),9,0.9624,28.2631,22.3372
+4. Lasso Regression (L1 Regularized),10,0.9629,28.1379,22.3853
+4. Lasso Regression (L1 Regularized),11,0.9641,28.0376,22.214
+4. Lasso Regression (L1 Regularized),12,0.965,27.9667,22.3334
+4. Lasso Regression (L1 Regularized),13,0.9639,27.5437,21.8616
+4. Lasso Regression (L1 Regularized),14,0.9635,27.903,22.1416
+4. Lasso Regression (L1 Regularized),15,0.9643,27.7968,22.1166
+4. Lasso Regression (L1 Regularized),16,0.963,28.0657,22.3289
+4. Lasso Regression (L1 Regularized),17,0.966,27.2516,21.7529
+4. Lasso Regression (L1 Regularized),18,0.963,28.0993,22.3458
+4. Lasso Regression (L1 Regularized),19,0.9642,27.7855,22.0762
+4. Lasso Regression (L1 Regularized),20,0.9645,28.0294,22.1588
+4. Lasso Regression (L1 Regularized),21,0.9647,27.7892,22.0711
+4. Lasso Regression (L1 Regularized),22,0.9645,27.7505,22.0565
+4. Lasso Regression (L1 Regularized),23,0.9644,27.9171,22.1119
+4. Lasso Regression (L1 Regularized),24,0.9641,27.6152,22.0449
+4. Lasso Regression (L1 Regularized),25,0.963,28.1773,22.3795
