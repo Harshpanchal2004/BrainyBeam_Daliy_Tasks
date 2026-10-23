@@ -1,0 +1,5 @@
+Search_Method,Configurations_Explored,Search_Space_Type,Runtime_Seconds,Best_CV_R2,Test_R2,Test_RMSE,Test_MAE,Train_Test_Gap_R2,Overfitting_Risk
+Default Baseline (No Tuning),1,Fixed Default Parameters,3.82,0.9538,0.9538,31.57,24.95,0.0395,High (Train R² = 0.992 vs Test R² = 0.953)
+GridSearchCV,24,Exhaustive Cartesian Grid,224.03,0.9506,0.9539,31.54,24.9,0.0345,Low (Controlled max_depth & min_samples_leaf)
+RandomizedSearchCV,25,Stochastic Distribution Sampling,235.3,0.9518,0.9537,31.59,24.93,0.0384,Low (Constrained parameter space)
+Bayesian Optimization (Optuna TPE),25,Probabilistic TPE Surrogate Model,301.56,0.9511,0.953,31.82,25.02,0.0353,Minimal (Optimal Bias-Variance Tradeoff)

@@ -1,0 +1,14 @@
+Feature,Optimal_Ridge_Coef,Optimal_Lasso_Coef,Lasso_Status,Lasso_Elimination_Alpha,Shrinkage_Behavior
+Inter_App_x_Tenure,62.3944,62.5606,Retained (Active),138.4886,Pruned at α ≈ 1.38e+02
+Avg_Order_Value,41.2121,40.817,Retained (Active),4.8626,Pruned at α ≈ 4.86e+00
+Annual_Orders,38.0967,37.8348,Retained (Active),65.7933,Pruned at α ≈ 6.58e+01
+Time_on_App,24.702,24.6378,Retained (Active),21.5443,Pruned at α ≈ 2.15e+01
+Avg_Session_Length,23.0502,23.0324,Retained (Active),25.9502,Pruned at α ≈ 2.60e+01
+Age,18.5724,18.5664,Retained (Active),17.8865,Pruned at α ≈ 1.79e+01
+Length_of_Membership,16.7827,16.6324,Retained (Active),0.628,Pruned at α ≈ 6.28e-01
+Positive Feedback Count,0.351,0.325,Retained (Active),0.3594,Pruned at α ≈ 3.59e-01
+Recommended IND,0.356,0.2483,Retained (Active),0.0811,Pruned at α ≈ 8.11e-02
+Inter_Orders_x_AOV,-0.4617,0.0,Eliminated (Zero Weight),0.0087,Pruned at α ≈ 8.70e-03
+Time_on_Website,-0.1951,-0.1768,Retained (Active),0.2477,Pruned at α ≈ 2.48e-01
+Review_Length,-0.4045,-0.3708,Retained (Active),0.2984,Pruned at α ≈ 2.98e-01
+Rating,-0.5035,-0.376,Retained (Active),0.1177,Pruned at α ≈ 1.18e-01

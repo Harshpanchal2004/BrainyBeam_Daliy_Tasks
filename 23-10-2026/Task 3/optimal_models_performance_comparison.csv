@@ -1,0 +1,4 @@
+Model_Architecture,Optimal_Alpha,Active_Features,Training_R2,Test_R2,Test_RMSE,Test_MAE,Train_Test_Gap,Sparsity_Property
+Unregularized OLS,0.0,13 / 13,0.9647,0.9653,27.34,21.72,-0.0007,None (Unpenalized OLS)
+Ridge Regression (α=1.322),1.3219,13 / 13,0.9647,0.9653,27.34,21.72,-0.0007,Dense (L2 weight decay)
+Lasso Regression (α=0.022),0.0221,12 / 13,0.9647,0.9653,27.34,21.72,-0.0007,Sparse (L1 variable selection)

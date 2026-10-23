@@ -1,0 +1,6 @@
+params,mean_test_score,std_test_score,mean_fit_time,rank_test_score
+"{'max_depth': 17, 'max_features': 'sqrt', 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 128}",0.9517716281416287,0.0014213764341278912,5.753352403640747,1
+"{'max_depth': 16, 'max_features': 'sqrt', 'min_samples_leaf': 2, 'min_samples_split': 4, 'n_estimators': 147}",0.951185566575987,0.001463873764031918,6.349689769744873,2
+"{'max_depth': 15, 'max_features': 'sqrt', 'min_samples_leaf': 2, 'min_samples_split': 5, 'n_estimators': 131}",0.9509749617740948,0.0014126754749642177,4.80871205329895,3
+"{'max_depth': 17, 'max_features': 1.0, 'min_samples_leaf': 2, 'min_samples_split': 6, 'n_estimators': 72}",0.9502542560816186,0.0017308105952430605,6.132177257537842,4
+"{'max_depth': 13, 'max_features': 1.0, 'min_samples_leaf': 2, 'min_samples_split': 2, 'n_estimators': 87}",0.9501298846639002,0.0018010211879149827,10.745760583877564,5
