@@ -1,0 +1,4 @@
+Model,Accuracy,Balanced_Accuracy,Precision_Class1,Recall_Class1,F1_Class1,Precision_Class0,Recall_Class0,F1_Class0,Macro_F1,Cohen_Kappa,MCC,ROC_AUC,PR_AUC,Brier_Score
+Naive Majority Predictor,0.8223,0.5,0.8223,1.0,0.9025,0.0,0.0,0.0,0.4512,0.0,0.0,0.5,0.8223,0.1461
+Logistic Regression (Balanced),0.9355,0.9401,0.9879,0.933,0.9597,0.7533,0.9473,0.8393,0.8995,0.7996,0.8078,0.9779,0.9948,0.0516
+Random Forest Classifier,0.9413,0.9056,0.9674,0.9609,0.9642,0.8246,0.8503,0.8373,0.9007,0.8014,0.8016,0.9753,0.9939,0.0421
