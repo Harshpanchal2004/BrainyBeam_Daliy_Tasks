@@ -1,0 +1,21 @@
+Feature,Standardized_Coefficient (Beta),Odds_Ratio (exp(Beta)),OR_95_CI_Lower,OR_95_CI_Upper,p_value,Retail_Business_Interpretation
+Rating,3.593,36.3415,12.6347,104.5301,2.638e-11,+1 SD increases odds of recommendation by 3534.2%
+Department Name_Trend,0.6385,1.8937,0.0036,988.0396,0.8415,+1 SD increases odds of recommendation by 89.4%
+Review_Word_Count,0.5786,1.7835,0.0964,33.0076,0.6976,+1 SD increases odds of recommendation by 78.4%
+Sentiment_Pos,0.5539,1.7401,0.8377,3.6144,0.1375,+1 SD increases odds of recommendation by 74.0%
+Rating_x_Sentiment,0.5412,1.7181,0.1827,16.1546,0.6360,+1 SD increases odds of recommendation by 71.8%
+Exclamation_Count,0.3058,1.3577,0.7684,2.399,0.2925,+1 SD increases odds of recommendation by 35.8%
+Division Name_Intimates,0.2382,1.269,0.013,123.4985,0.9188,+1 SD increases odds of recommendation by 26.9%
+Division Name_General Petite,0.1336,1.143,0.5412,2.4138,0.7261,+1 SD increases odds of recommendation by 14.3%
+Age,0.1321,1.1412,0.7929,1.6427,0.4771,+1 SD increases odds of recommendation by 14.1%
+Department Name_Intimate,0.1058,1.1116,0.0134,92.035,0.9625,+1 SD increases odds of recommendation by 11.2%
+Positive_Word_Count,0.0922,1.0965,0.6934,1.7341,0.6935,+1 SD increases odds of recommendation by 9.7%
+Fit_Issue_Word_Count,0.039,1.0398,0.7552,1.4315,0.8110,+1 SD increases odds of recommendation by 4.0%
+Department Name_Jackets,0.0277,1.0281,0.1039,10.1777,0.9811,+1 SD increases odds of recommendation by 2.8%
+Positive Feedback Count,-0.0645,0.9375,0.6657,1.3203,0.7119,+1 SD decreases odds of recommendation by 6.2%
+Department Name_Tops,-0.1364,0.8725,0.3252,2.3405,0.7864,+1 SD decreases odds of recommendation by 12.8%
+Department Name_Dresses,-0.1565,0.8551,0.2939,2.4875,0.7739,+1 SD decreases odds of recommendation by 14.5%
+Negative_Word_Count,-0.172,0.8419,0.6198,1.1437,0.2709,+1 SD decreases odds of recommendation by 15.8%
+Sentiment_Neg,-0.4527,0.6359,0.4172,0.9693,0.0353,+1 SD decreases odds of recommendation by 36.4%
+Review_Length,-0.4725,0.6234,0.0343,11.3289,0.7494,+1 SD decreases odds of recommendation by 37.7%
+Sentiment_Compound,-0.5914,0.5536,0.1001,3.0607,0.4979,+1 SD decreases odds of recommendation by 44.6%

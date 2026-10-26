@@ -1,0 +1,6 @@
+Balancing_Strategy,Accuracy,Balanced_Accuracy,Recall_Class0 (Dissatisfied),Precision_Class0,F1_Class0,Macro_F1,Cohen_Kappa,MCC,ROC_AUC,PR_AUC
+Baseline (Unbalanced),0.943,0.8958,0.8228,0.8513,0.8368,0.9011,0.8022,0.8024,0.9778,0.9948
+Cost-Sensitive (Balanced Weights),0.9355,0.9401,0.9473,0.7533,0.8393,0.8995,0.7996,0.8078,0.9779,0.9948
+SMOTE Over-Sampling,0.9364,0.9402,0.9461,0.7567,0.8409,0.9005,0.8017,0.8095,0.9774,0.9948
+Random Under-Sampling (RUS),0.9355,0.9401,0.9473,0.7533,0.8393,0.8995,0.7996,0.8078,0.9782,0.995
+Combined SMOTE + RUS,0.9361,0.94,0.9461,0.756,0.8404,0.9003,0.8011,0.809,0.9777,0.9948
