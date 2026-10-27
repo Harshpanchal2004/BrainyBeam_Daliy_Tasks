@@ -1,0 +1,5 @@
+Kernel_Model,Training_Time_s,Num_Support_Vectors,Pct_Support_Vectors,Test_Accuracy,Test_Recall_Class0,Test_Precision_Class0,Test_Macro_F1,Test_ROC_AUC,Test_MCC
+Linear Kernel (C=1.0),0.59,564,14.1,0.9421,0.879,0.811,0.9041,0.9771,0.8092
+"Polynomial Kernel (d=2, C=1.0)",0.81,659,16.48,0.9293,0.691,0.8863,0.8673,0.9617,0.7434
+"Polynomial Kernel (d=3, C=1.0)",0.59,687,17.18,0.9272,0.6778,0.8858,0.8624,0.9619,0.7348
+"RBF Kernel (gamma=scale, C=1.0)",0.8,732,18.3,0.9398,0.8012,0.8511,0.8945,0.9725,0.7896

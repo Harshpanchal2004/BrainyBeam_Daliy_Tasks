@@ -1,0 +1,5 @@
+Model,Total_Support_Vectors,SV_Class0_Dissatisfied,SV_Class1_Recommended,Margin_Sparsity_Pct
+Linear Kernel (C=1.0),564,280,284,85.9
+"Polynomial Kernel (d=2, C=1.0)",659,316,343,83.53
+"Polynomial Kernel (d=3, C=1.0)",687,335,352,82.82
+"RBF Kernel (gamma=scale, C=1.0)",732,359,373,81.7
