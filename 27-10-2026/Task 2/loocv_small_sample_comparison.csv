@@ -1,0 +1,4 @@
+CV_Method,Sample_Size (N),Num_Models_Fitted,Compute_Time_Seconds,Mean_Accuracy,Accuracy_SE,Mean_Macro_F1,Evaluation_Bias
+Leave-One-Out CV (LOOCV),120,120,0.65,0.875,0.0302,0.7875,Virtually Unbiased (N-1 train size)
+Stratified 10-Fold CV,120,10,0.11,0.8583,0.0206,0.7208,Low (0.9N train size)
+Stratified 5-Fold CV,120,5,0.06,0.8417,0.0139,0.7052,Slight Pessimistic Bias (0.8N train size)
