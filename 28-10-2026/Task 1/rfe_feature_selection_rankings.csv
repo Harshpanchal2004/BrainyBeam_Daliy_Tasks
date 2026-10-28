@@ -1,0 +1,21 @@
+Feature,RFE_Ranking,Selected
+Age,1,True
+Department Name_Dresses,1,True
+Department Name_Intimate,1,True
+Department Name_Jackets,1,True
+Department Name_Tops,1,True
+Division Name_General Petite,1,True
+Division Name_Intimates,1,True
+Exclamation_Count,1,True
+Fit_Issue_Word_Count,1,True
+Negative_Word_Count,1,True
+Positive Feedback Count,1,True
+Positive_Word_Count,1,True
+Rating,1,True
+Rating_x_Sentiment,1,True
+Review_Length,1,True
+Review_Word_Count,1,True
+Sentiment_Compound,1,True
+Sentiment_Neg,1,True
+Sentiment_Pos,1,True
+Department Name_Trend,2,False
