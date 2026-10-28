@@ -1,0 +1,21 @@
+Feature,Random Forest_Rank,Gradient Boosting_Rank,XGBoost_Rank,Logistic Regression_Rank
+Rating,1,1,1,1
+Rating_x_Sentiment,2,2,2,2
+Sentiment_Pos,6,3,5,3
+Sentiment_Neg,3,4,3,5
+Sentiment_Compound,5,5,11,4
+Age,12,8,4,10
+Exclamation_Count,7,6,6,9
+Negative_Word_Count,4,7,7,8
+Review_Word_Count,9,12,10,6
+Review_Length,8,9,9,7
+Positive Feedback Count,11,10,8,12
+Department Name_Tops,14,17,14,11
+Fit_Issue_Word_Count,13,11,12,16
+Department Name_Dresses,15,15,17,13
+Division Name_General Petite,16,13,15,14
+Positive_Word_Count,10,14,16,15
+Department Name_Jackets,18,16,13,18
+Division Name_Intimates,17,18,19,17
+Department Name_Intimate,19,20,18,19
+Department Name_Trend,20,19,20,20
