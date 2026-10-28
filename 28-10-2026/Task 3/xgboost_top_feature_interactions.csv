@@ -1,0 +1,191 @@
+Feature_1,Feature_2,Mean_Absolute_Interaction,Relative_Interaction_Strength
+Rating,Sentiment_Neg,0.052616633,0.114091046
+Age,Rating,0.048456267,0.10506993
+Rating,Rating_x_Sentiment,0.04428366,0.09602227
+Rating,Sentiment_Pos,0.040663145,0.08817175
+Rating,Review_Word_Count,0.015401703,0.033396214
+Age,Rating_x_Sentiment,0.014266176,0.030934
+Rating,Negative_Word_Count,0.0137052825,0.029717788
+Rating,Department Name_Tops,0.012898996,0.02796948
+Rating,Review_Length,0.0113816345,0.024679316
+Rating,Sentiment_Compound,0.010109357,0.021920579
+Rating,Exclamation_Count,0.0098833125,0.021430437
+Sentiment_Neg,Rating_x_Sentiment,0.009272753,0.020106534
+Rating,Positive Feedback Count,0.00905119,0.019626107
+Negative_Word_Count,Rating_x_Sentiment,0.00705423,0.015296008
+Review_Length,Exclamation_Count,0.0067178886,0.014566704
+Rating,Department Name_Jackets,0.0066340715,0.01438496
+Sentiment_Pos,Negative_Word_Count,0.0066319285,0.0143803125
+Sentiment_Pos,Sentiment_Neg,0.0066307695,0.0143778
+Sentiment_Compound,Sentiment_Neg,0.005813376,0.012605408
+Review_Length,Sentiment_Neg,0.005662896,0.012279116
+Sentiment_Pos,Rating_x_Sentiment,0.005515467,0.011959438
+Positive Feedback Count,Rating_x_Sentiment,0.0052678157,0.011422445
+Review_Length,Rating_x_Sentiment,0.0052212356,0.011321443
+Rating,Fit_Issue_Word_Count,0.0052004284,0.011276326
+Age,Sentiment_Pos,0.005065481,0.010983714
+Age,Fit_Issue_Word_Count,0.004809037,0.010427654
+Review_Word_Count,Rating_x_Sentiment,0.004735201,0.010267552
+Rating,Positive_Word_Count,0.0046413224,0.010063991
+Review_Length,Negative_Word_Count,0.004595658,0.009964975
+Sentiment_Compound,Sentiment_Pos,0.0045817103,0.009934731
+Review_Length,Sentiment_Pos,0.004057382,0.008797806
+Sentiment_Neg,Positive_Word_Count,0.003968454,0.008604979
+Age,Sentiment_Neg,0.0038392616,0.008324846
+Positive Feedback Count,Review_Length,0.0036773023,0.007973662
+Positive Feedback Count,Department Name_Tops,0.0035339694,0.0076628667
+Age,Sentiment_Compound,0.0034087768,0.007391406
+Sentiment_Pos,Fit_Issue_Word_Count,0.0030909798,0.0067023123
+Review_Word_Count,Negative_Word_Count,0.0027755268,0.0060183015
+Positive Feedback Count,Sentiment_Pos,0.0027686234,0.0060033323
+Age,Review_Length,0.0025272646,0.005479983
+Review_Word_Count,Sentiment_Neg,0.0024433366,0.005297998
+Review_Word_Count,Sentiment_Pos,0.002397886,0.0051994454
+Fit_Issue_Word_Count,Rating_x_Sentiment,0.0023805944,0.0051619513
+Sentiment_Compound,Rating_x_Sentiment,0.0022706224,0.004923494
+Exclamation_Count,Division Name_General Petite,0.0022486835,0.004875923
+Sentiment_Compound,Negative_Word_Count,0.0021735886,0.004713091
+Positive Feedback Count,Exclamation_Count,0.0019071243,0.0041353046
+Exclamation_Count,Sentiment_Neg,0.0018920342,0.004102584
+Age,Exclamation_Count,0.001830667,0.003969519
+Sentiment_Neg,Negative_Word_Count,0.0016143296,0.0035004246
+Sentiment_Compound,Department Name_Tops,0.0015772973,0.0034201257
+Positive Feedback Count,Sentiment_Neg,0.001576146,0.0034176293
+Age,Department Name_Tops,0.0015189584,0.0032936267
+Age,Positive Feedback Count,0.0014616735,0.0031694132
+Age,Review_Word_Count,0.0014548034,0.0031545165
+Review_Length,Sentiment_Compound,0.0012899579,0.0027970744
+Exclamation_Count,Rating_x_Sentiment,0.0012004691,0.002603032
+Review_Length,Fit_Issue_Word_Count,0.0009054197,0.0019632627
+Review_Word_Count,Exclamation_Count,0.0008317051,0.0018034241
+Review_Word_Count,Fit_Issue_Word_Count,0.00071880873,0.0015586257
+Review_Word_Count,Sentiment_Compound,0.0007097062,0.0015388883
+Positive Feedback Count,Negative_Word_Count,0.00067110563,0.001455189
+Review_Length,Positive_Word_Count,0.000658494,0.0014278425
+Sentiment_Neg,Fit_Issue_Word_Count,0.0006262008,0.0013578198
+Exclamation_Count,Negative_Word_Count,0.0006172342,0.001338377
+Review_Word_Count,Department Name_Tops,0.00058869936,0.0012765037
+Age,Negative_Word_Count,0.0005558734,0.0012053256
+Negative_Word_Count,Fit_Issue_Word_Count,0.0005044651,0.0010938547
+Positive Feedback Count,Sentiment_Compound,0.0005019519,0.0010884051
+Review_Length,Review_Word_Count,0.0004411737,0.00095661706
+Sentiment_Pos,Division Name_Intimates,0.00043513253,0.0009435177
+Positive Feedback Count,Review_Word_Count,0.0003964039,0.0008595406
+Review_Length,Division Name_General Petite,0.00018054972,0.00039149416
+Positive Feedback Count,Fit_Issue_Word_Count,9.578439e-05,0.00020769365
+Negative_Word_Count,Department Name_Tops,5.2107647e-05,0.000112987385
+Sentiment_Neg,Division Name_Intimates,3.5915597e-05,7.787743e-05
+Positive Feedback Count,Department Name_Intimate,0.0,0.0
+Positive Feedback Count,Department Name_Trend,0.0,0.0
+Age,Positive_Word_Count,0.0,0.0
+Age,Department Name_Intimate,0.0,0.0
+Age,Department Name_Dresses,0.0,0.0
+Positive Feedback Count,Department Name_Dresses,0.0,0.0
+Positive Feedback Count,Division Name_General Petite,0.0,0.0
+Positive Feedback Count,Division Name_Intimates,0.0,0.0
+Rating,Department Name_Trend,0.0,0.0
+Positive Feedback Count,Positive_Word_Count,0.0,0.0
+Rating,Department Name_Intimate,0.0,0.0
+Rating,Division Name_General Petite,0.0,0.0
+Rating,Division Name_Intimates,0.0,0.0
+Rating,Department Name_Dresses,0.0,0.0
+Age,Division Name_Intimates,0.0,0.0
+Age,Department Name_Jackets,0.0,0.0
+Age,Department Name_Trend,0.0,0.0
+Age,Division Name_General Petite,0.0,0.0
+Positive Feedback Count,Department Name_Jackets,0.0,0.0
+Exclamation_Count,Department Name_Intimate,0.0,0.0
+Exclamation_Count,Fit_Issue_Word_Count,0.0,0.0
+Exclamation_Count,Positive_Word_Count,0.0,0.0
+Exclamation_Count,Sentiment_Pos,0.0,0.0
+Review_Word_Count,Division Name_General Petite,0.0,0.0
+Review_Word_Count,Division Name_Intimates,0.0,0.0
+Exclamation_Count,Sentiment_Compound,0.0,0.0
+Review_Word_Count,Department Name_Jackets,0.0,0.0
+Exclamation_Count,Department Name_Dresses,0.0,0.0
+Review_Word_Count,Department Name_Dresses,0.0,0.0
+Review_Word_Count,Department Name_Trend,0.0,0.0
+Review_Length,Department Name_Dresses,0.0,0.0
+Sentiment_Compound,Positive_Word_Count,0.0,0.0
+Exclamation_Count,Department Name_Trend,0.0,0.0
+Exclamation_Count,Department Name_Jackets,0.0,0.0
+Sentiment_Compound,Department Name_Trend,0.0,0.0
+Sentiment_Compound,Department Name_Jackets,0.0,0.0
+Sentiment_Compound,Department Name_Intimate,0.0,0.0
+Sentiment_Compound,Department Name_Dresses,0.0,0.0
+Sentiment_Compound,Fit_Issue_Word_Count,0.0,0.0
+Exclamation_Count,Department Name_Tops,0.0,0.0
+Exclamation_Count,Division Name_Intimates,0.0,0.0
+Sentiment_Pos,Positive_Word_Count,0.0,0.0
+Sentiment_Pos,Department Name_Dresses,0.0,0.0
+Review_Word_Count,Department Name_Intimate,0.0,0.0
+Review_Length,Department Name_Intimate,0.0,0.0
+Review_Length,Department Name_Tops,0.0,0.0
+Review_Word_Count,Positive_Word_Count,0.0,0.0
+Review_Length,Department Name_Trend,0.0,0.0
+Review_Length,Division Name_Intimates,0.0,0.0
+Review_Length,Department Name_Jackets,0.0,0.0
+Sentiment_Pos,Division Name_General Petite,0.0,0.0
+Sentiment_Pos,Department Name_Jackets,0.0,0.0
+Sentiment_Pos,Department Name_Tops,0.0,0.0
+Sentiment_Pos,Department Name_Trend,0.0,0.0
+Sentiment_Pos,Department Name_Intimate,0.0,0.0
+Sentiment_Compound,Division Name_Intimates,0.0,0.0
+Sentiment_Compound,Division Name_General Petite,0.0,0.0
+Sentiment_Neg,Department Name_Dresses,0.0,0.0
+Sentiment_Neg,Division Name_General Petite,0.0,0.0
+Positive_Word_Count,Negative_Word_Count,0.0,0.0
+Positive_Word_Count,Fit_Issue_Word_Count,0.0,0.0
+Positive_Word_Count,Rating_x_Sentiment,0.0,0.0
+Sentiment_Neg,Department Name_Jackets,0.0,0.0
+Sentiment_Neg,Department Name_Tops,0.0,0.0
+Sentiment_Neg,Department Name_Trend,0.0,0.0
+Sentiment_Neg,Department Name_Intimate,0.0,0.0
+Positive_Word_Count,Department Name_Tops,0.0,0.0
+Positive_Word_Count,Department Name_Jackets,0.0,0.0
+Positive_Word_Count,Department Name_Intimate,0.0,0.0
+Positive_Word_Count,Department Name_Dresses,0.0,0.0
+Positive_Word_Count,Division Name_Intimates,0.0,0.0
+Negative_Word_Count,Department Name_Dresses,0.0,0.0
+Positive_Word_Count,Division Name_General Petite,0.0,0.0
+Positive_Word_Count,Department Name_Trend,0.0,0.0
+Negative_Word_Count,Department Name_Jackets,0.0,0.0
+Negative_Word_Count,Department Name_Intimate,0.0,0.0
+Negative_Word_Count,Division Name_General Petite,0.0,0.0
+Negative_Word_Count,Department Name_Trend,0.0,0.0
+Negative_Word_Count,Division Name_Intimates,0.0,0.0
+Fit_Issue_Word_Count,Department Name_Dresses,0.0,0.0
+Fit_Issue_Word_Count,Department Name_Intimate,0.0,0.0
+Fit_Issue_Word_Count,Department Name_Jackets,0.0,0.0
+Fit_Issue_Word_Count,Department Name_Tops,0.0,0.0
+Fit_Issue_Word_Count,Department Name_Trend,0.0,0.0
+Fit_Issue_Word_Count,Division Name_General Petite,0.0,0.0
+Fit_Issue_Word_Count,Division Name_Intimates,0.0,0.0
+Rating_x_Sentiment,Department Name_Dresses,0.0,0.0
+Rating_x_Sentiment,Department Name_Intimate,0.0,0.0
+Rating_x_Sentiment,Department Name_Jackets,0.0,0.0
+Rating_x_Sentiment,Department Name_Tops,0.0,0.0
+Rating_x_Sentiment,Department Name_Trend,0.0,0.0
+Rating_x_Sentiment,Division Name_General Petite,0.0,0.0
+Rating_x_Sentiment,Division Name_Intimates,0.0,0.0
+Department Name_Dresses,Department Name_Intimate,0.0,0.0
+Department Name_Dresses,Department Name_Jackets,0.0,0.0
+Department Name_Dresses,Department Name_Tops,0.0,0.0
+Department Name_Dresses,Department Name_Trend,0.0,0.0
+Department Name_Dresses,Division Name_General Petite,0.0,0.0
+Department Name_Dresses,Division Name_Intimates,0.0,0.0
+Department Name_Intimate,Department Name_Jackets,0.0,0.0
+Department Name_Intimate,Department Name_Tops,0.0,0.0
+Department Name_Intimate,Department Name_Trend,0.0,0.0
+Department Name_Intimate,Division Name_General Petite,0.0,0.0
+Department Name_Intimate,Division Name_Intimates,0.0,0.0
+Department Name_Jackets,Department Name_Tops,0.0,0.0
+Department Name_Jackets,Department Name_Trend,0.0,0.0
+Department Name_Jackets,Division Name_General Petite,0.0,0.0
+Department Name_Jackets,Division Name_Intimates,0.0,0.0
+Department Name_Tops,Department Name_Trend,0.0,0.0
+Department Name_Tops,Division Name_General Petite,0.0,0.0
+Department Name_Tops,Division Name_Intimates,0.0,0.0
+Department Name_Trend,Division Name_General Petite,0.0,0.0
+Department Name_Trend,Division Name_Intimates,0.0,0.0
+Division Name_General Petite,Division Name_Intimates,0.0,0.0
