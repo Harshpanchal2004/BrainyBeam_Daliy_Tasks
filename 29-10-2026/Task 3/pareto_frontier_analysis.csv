@@ -1,0 +1,9 @@
+Model_Name,Macro_F1,Inference_Latency_us,Pareto_Status
+Logistic Regression (Baseline),0.9011,0.1,Pareto-Optimal
+Logistic Regression (Balanced),0.8995,0.1,Dominated
+Decision Tree,0.8918,0.2,Dominated
+Random Forest,0.9038,12.2,Dominated
+Gradient Boosting,0.8968,2.6,Dominated
+Support Vector Machine (RBF),0.8945,59.8,Dominated
+XGBoost (Baseline),0.887,1.4,Dominated
+XGBoost (Bayesian Champion),0.9061,0.9,Pareto-Optimal

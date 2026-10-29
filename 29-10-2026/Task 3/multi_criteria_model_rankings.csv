@@ -1,0 +1,9 @@
+Model_Name,Accuracy,Macro_F1,ROC_AUC,MCC,Inference_Latency_us,Train_Time_s,Composite_Score,Overall_Rank,Recommended_Deployment_Scenario
+XGBoost (Bayesian Champion),0.9442,0.9061,0.9771,0.8124,0.9,0.33,0.9768,1,Champion Recommendation Serving Engine
+Logistic Regression (Balanced),0.9355,0.8995,0.9779,0.8078,0.1,0.033,0.8724,2,High Sensitivity Recall for Defect Auditing
+Logistic Regression (Baseline),0.943,0.9011,0.9778,0.8024,0.1,0.061,0.8669,3,Ultra-Low Latency / High Throughput APIs
+Random Forest,0.9419,0.9038,0.9746,0.8086,12.2,0.752,0.8356,4,Robust Offline Batch Catalog Scoring
+Gradient Boosting,0.9395,0.8968,0.9755,0.7936,2.6,5.528,0.6025,5,High-Precision Ranking Engine
+Support Vector Machine (RBF),0.9398,0.8945,0.9725,0.7896,59.8,0.713,0.4304,6,Non-Linear Boundary Research
+XGBoost (Baseline),0.9342,0.887,0.9736,0.774,1.4,0.335,0.4066,7,Standard Gradient Tree Boosting Baseline
+Decision Tree,0.9366,0.8918,0.9652,0.7836,0.2,0.052,0.3748,8,White-Box Human Rule Extraction
