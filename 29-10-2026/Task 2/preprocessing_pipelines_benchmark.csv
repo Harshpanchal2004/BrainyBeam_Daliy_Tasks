@@ -1,0 +1,5 @@
+Pipeline,Vocabulary_Size,Matrix_Sparsity,Accuracy,Macro_F1,ROC_AUC,Vectorization_Time_s
+Raw Text,3000,0.9797,0.8368,0.5898,0.934,0.376
+Standard Stemming,3000,0.9898,0.8416,0.6138,0.9211,0.196
+Standard Lemmatization,3000,0.9901,0.8384,0.5912,0.9236,0.298
+Advanced Context-Aware NLP,3000,0.9918,0.8288,0.567,0.9065,0.262

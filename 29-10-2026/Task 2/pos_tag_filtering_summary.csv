@@ -1,0 +1,43 @@
+POS_Tag,Frequency,Description,Decision,Reason
+NN,3254,Noun (Singular),Retained,Garment/feature reference
+JJ,2147,Adjective (Base),Retained,High sentiment carrier
+DT,2132,Determiner,Pruned,Non-sentiment function word
+IN,1714,Preposition / Subordinating,Pruned,Syntactic glue
+RB,1535,Adverb,Retained,Intensity modifier
+.,1382,Other,Pruned,Non-core linguistic token
+PRP,1052,Personal Pronoun,Pruned,Non-sentiment syntactic token
+CC,944,Coordinating Conjunction,Pruned,Syntactic glue
+VB,821,Verb (Base),Retained,Fit action / experience
+VBD,761,Verb (Past),Retained,Action / experience
+VBZ,752,Verb (3rd Person Singular),Retained,Action / experience
+VBP,644,Verb (Singular Present),Retained,Action / experience
+",",642,Other,Pruned,Non-core linguistic token
+NNS,593,Noun (Plural),Retained,Garment/feature reference
+CD,362,Cardinal Number,Pruned,Standardized via domain cleaner
+TO,334,Other,Pruned,Non-core linguistic token
+MD,267,Modal Auxiliary,Pruned,Syntactic function auxiliary
+VBG,261,Verb (Gerund),Retained,Action / experience
+VBN,252,Verb (Past Participle),Retained,Condition / state
+NNP,176,Other,Pruned,Non-core linguistic token
+PRP$,163,Possessive Pronoun,Pruned,Non-sentiment syntactic token
+:,160,Other,Pruned,Non-core linguistic token
+RP,119,Other,Pruned,Non-core linguistic token
+JJR,84,Adjective (Comparative),Retained,High sentiment carrier
+WDT,83,Other,Pruned,Non-core linguistic token
+),60,Other,Pruned,Non-core linguistic token
+'',59,Other,Pruned,Non-core linguistic token
+WRB,58,Other,Pruned,Non-core linguistic token
+(,55,Other,Pruned,Non-core linguistic token
+POS,50,Other,Pruned,Non-core linguistic token
+RBR,45,Adverb (Comparative),Retained,Intensity modifier
+EX,26,Other,Pruned,Non-core linguistic token
+WP,25,Other,Pruned,Non-core linguistic token
+``,22,Other,Pruned,Non-core linguistic token
+JJS,20,Adjective (Superlative),Retained,High sentiment carrier
+#,13,Other,Pruned,Non-core linguistic token
+PDT,10,Other,Pruned,Non-core linguistic token
+UH,7,Other,Pruned,Non-core linguistic token
+$,6,Other,Pruned,Non-core linguistic token
+RBS,4,Adverb (Superlative),Retained,Intensity modifier
+FW,3,Other,Pruned,Non-core linguistic token
+SYM,1,Other,Pruned,Non-core linguistic token
