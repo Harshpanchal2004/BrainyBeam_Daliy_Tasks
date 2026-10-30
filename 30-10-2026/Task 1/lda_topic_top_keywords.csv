@@ -1,0 +1,76 @@
+Topic_ID,Topic_Label,Keyword_Rank,Keyword,Probability_Weight
+0,Fabric Hand-Feel & Tactile Comfort,1,fit,0.0238
+0,Fabric Hand-Feel & Tactile Comfort,2,waist,0.0178
+0,Fabric Hand-Feel & Tactile Comfort,3,short,0.0143
+0,Fabric Hand-Feel & Tactile Comfort,4,skirt,0.0128
+0,Fabric Hand-Feel & Tactile Comfort,5,length,0.012
+0,Fabric Hand-Feel & Tactile Comfort,6,nice,0.0108
+0,Fabric Hand-Feel & Tactile Comfort,7,love,0.0102
+0,Fabric Hand-Feel & Tactile Comfort,8,material,0.0102
+0,Fabric Hand-Feel & Tactile Comfort,9,long,0.0101
+0,Fabric Hand-Feel & Tactile Comfort,10,cute,0.0097
+0,Fabric Hand-Feel & Tactile Comfort,11,way,0.0092
+0,Fabric Hand-Feel & Tactile Comfort,12,pants,0.0091
+0,Fabric Hand-Feel & Tactile Comfort,13,great,0.009
+0,Fabric Hand-Feel & Tactile Comfort,14,didn,0.009
+0,Fabric Hand-Feel & Tactile Comfort,15,little,0.0087
+1,"Fit Proportions, Sizing & Alterations",1,beautiful,0.0175
+1,"Fit Proportions, Sizing & Alterations",2,love,0.0161
+1,"Fit Proportions, Sizing & Alterations",3,online,0.0156
+1,"Fit Proportions, Sizing & Alterations",4,sweater,0.0147
+1,"Fit Proportions, Sizing & Alterations",5,saw,0.0131
+1,"Fit Proportions, Sizing & Alterations",6,received,0.0129
+1,"Fit Proportions, Sizing & Alterations",7,compliments,0.0125
+1,"Fit Proportions, Sizing & Alterations",8,wore,0.0105
+1,"Fit Proportions, Sizing & Alterations",9,time,0.01
+1,"Fit Proportions, Sizing & Alterations",10,quality,0.0096
+1,"Fit Proportions, Sizing & Alterations",11,got,0.0094
+1,"Fit Proportions, Sizing & Alterations",12,tried,0.0075
+1,"Fit Proportions, Sizing & Alterations",13,loved,0.0073
+1,"Fit Proportions, Sizing & Alterations",14,coat,0.0071
+1,"Fit Proportions, Sizing & Alterations",15,person,0.0069
+2,Aesthetic Styling & Flattering Silhouette,1,love,0.0156
+2,Aesthetic Styling & Flattering Silhouette,2,bra,0.0135
+2,Aesthetic Styling & Flattering Silhouette,3,cut,0.0102
+2,Aesthetic Styling & Flattering Silhouette,4,flattering,0.0101
+2,Aesthetic Styling & Flattering Silhouette,5,beautiful,0.0089
+2,Aesthetic Styling & Flattering Silhouette,6,pretty,0.0087
+2,Aesthetic Styling & Flattering Silhouette,7,body,0.0086
+2,Aesthetic Styling & Flattering Silhouette,8,sleeves,0.0082
+2,Aesthetic Styling & Flattering Silhouette,9,white,0.0074
+2,Aesthetic Styling & Flattering Silhouette,10,sheer,0.0073
+2,Aesthetic Styling & Flattering Silhouette,11,low,0.0069
+2,Aesthetic Styling & Flattering Silhouette,12,lace,0.0068
+2,Aesthetic Styling & Flattering Silhouette,13,suit,0.006
+2,Aesthetic Styling & Flattering Silhouette,14,print,0.0059
+2,Aesthetic Styling & Flattering Silhouette,15,design,0.0058
+3,"Casual Daily Wear, Layering & Weather",1,love,0.0431
+3,"Casual Daily Wear, Layering & Weather",2,great,0.0411
+3,"Casual Daily Wear, Layering & Weather",3,perfect,0.0237
+3,"Casual Daily Wear, Layering & Weather",4,soft,0.0185
+3,"Casual Daily Wear, Layering & Weather",5,comfortable,0.0179
+3,"Casual Daily Wear, Layering & Weather",6,jeans,0.0165
+3,"Casual Daily Wear, Layering & Weather",7,sweater,0.0148
+3,"Casual Daily Wear, Layering & Weather",8,fit,0.0137
+3,"Casual Daily Wear, Layering & Weather",9,summer,0.0119
+3,"Casual Daily Wear, Layering & Weather",10,cute,0.0113
+3,"Casual Daily Wear, Layering & Weather",11,flattering,0.0107
+3,"Casual Daily Wear, Layering & Weather",12,nice,0.0099
+3,"Casual Daily Wear, Layering & Weather",13,fall,0.0096
+3,"Casual Daily Wear, Layering & Weather",14,colors,0.0092
+3,"Casual Daily Wear, Layering & Weather",15,black,0.0091
+4,Customer Dissatisfaction & Order Returns,1,small,0.0386
+4,Customer Dissatisfaction & Order Returns,2,large,0.0244
+4,Customer Dissatisfaction & Order Returns,3,fit,0.0229
+4,Customer Dissatisfaction & Order Returns,4,medium,0.0176
+4,Customer Dissatisfaction & Order Returns,5,runs,0.0172
+4,Customer Dissatisfaction & Order Returns,6,love,0.0146
+4,Customer Dissatisfaction & Order Returns,7,beautiful,0.0135
+4,Customer Dissatisfaction & Order Returns,8,little,0.0133
+4,Customer Dissatisfaction & Order Returns,9,usually,0.0124
+4,Customer Dissatisfaction & Order Returns,10,big,0.0117
+4,Customer Dissatisfaction & Order Returns,11,cute,0.0107
+4,Customer Dissatisfaction & Order Returns,12,bit,0.0107
+4,Customer Dissatisfaction & Order Returns,13,fits,0.0101
+4,Customer Dissatisfaction & Order Returns,14,tight,0.0089
+4,Customer Dissatisfaction & Order Returns,15,shoulders,0.0083
