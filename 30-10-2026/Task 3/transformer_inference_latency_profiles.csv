@@ -1,0 +1,5 @@
+Batch_Size,FP32_Batch_Latency_ms,FP32_Per_Sample_Latency_us,INT8_Batch_Latency_ms,INT8_Per_Sample_Latency_us,Latency_Speedup
+1,1.31,1314.2,1.79,1785.2,0.74
+4,2.79,697.8,3.26,814.0,0.86
+16,9.93,620.6,9.26,578.7,1.07
+64,36.81,575.1,36.89,576.3,1.0
