@@ -1,0 +1,61 @@
+Ngram,Frequency,Sentiment,Relative_Pct,Ngram_Type
+but not,1166,Positive,6.04,Bigram
+very flattering,893,Positive,4.62,Bigram
+not too,867,Positive,4.49,Bigram
+love love,699,Positive,3.62,Bigram
+up or,697,Positive,3.61,Bigram
+love top,605,Positive,3.13,Bigram
+or down,601,Positive,3.11,Bigram
+well made,581,Positive,3.01,Bigram
+very comfortable,567,Positive,2.94,Bigram
+fit perfectly,552,Positive,2.86,Bigram
+dressed up,531,Positive,2.75,Bigram
+these pants,527,Positive,2.73,Bigram
+love these,498,Positive,2.58,Bigram
+fits perfectly,486,Positive,2.52,Bigram
+super cute,477,Positive,2.47,Bigram
+wanted love,331,Negative,7.93,Bigram
+but not,298,Negative,7.14,Bigram
+did not,295,Negative,7.07,Bigram
+too much,248,Negative,5.94,Bigram
+way too,245,Negative,5.87,Bigram
+not flattering,230,Negative,5.51,Bigram
+going back,220,Negative,5.27,Bigram
+cute but,210,Negative,5.03,Bigram
+too big,200,Negative,4.79,Bigram
+see through,163,Negative,3.91,Bigram
+too short,162,Negative,3.88,Bigram
+beautiful but,136,Negative,3.26,Bigram
+didn work,132,Negative,3.16,Bigram
+does not,126,Negative,3.02,Bigram
+pretty but,121,Negative,2.9,Bigram
+up or down,562,Positive,2.91,Trigram
+dressed up or,334,Positive,1.73,Trigram
+can dressed up,287,Positive,1.49,Trigram
+love love love,247,Positive,1.28,Trigram
+but not too,188,Positive,0.97,Trigram
+received many compliments,163,Positive,0.84,Trigram
+love these pants,148,Positive,0.77,Trigram
+very well made,124,Positive,0.64,Trigram
+not see through,114,Positive,0.59,Trigram
+not too short,112,Positive,0.58,Trigram
+love these jeans,106,Positive,0.55,Trigram
+without being too,106,Positive,0.55,Trigram
+can up or,101,Positive,0.52,Trigram
+not sure if,88,Positive,0.46,Trigram
+top love top,85,Positive,0.44,Trigram
+wanted love but,71,Negative,1.7,Trigram
+did not work,56,Negative,1.34,Trigram
+way too big,56,Negative,1.34,Trigram
+way too much,49,Negative,1.17,Trigram
+there no way,37,Negative,0.89,Trigram
+cute but not,34,Negative,0.81,Trigram
+not worth price,34,Negative,0.81,Trigram
+not flattering all,33,Negative,0.79,Trigram
+there too much,33,Negative,0.79,Trigram
+runs very large,33,Negative,0.79,Trigram
+too much material,32,Negative,0.77,Trigram
+but did not,32,Negative,0.77,Trigram
+wanted love top,31,Negative,0.74,Trigram
+but didn work,28,Negative,0.67,Trigram
+not what expected,28,Negative,0.67,Trigram
