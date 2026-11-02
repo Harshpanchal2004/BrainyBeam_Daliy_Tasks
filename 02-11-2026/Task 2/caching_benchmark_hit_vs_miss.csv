@@ -1,5 +1,0 @@
-Sample_Size_Rows,Cold_Disk_Parse_ms,Warm_Cache_Hit_ms,Latency_Reduction_Pct,Throughput_Speedup_x,Memory_Alloc_MB
-1000,42.96,0.0,100.0,4295.8,0.81
-5000,140.21,0.0,100.0,14021.1,4.07
-10000,251.59,0.0,100.0,25159.4,8.06
-23486,628.7,0.0,100.0,62870.3,19.05
