@@ -1,8 +1,0 @@
-Widget_Name,Widget_Type,Input_Domain,Target_Parameter,Callback_Function,Trigger_Action,Latency_ms
-Department Selectbox,Dropdown Menu (Single-Select),"Dresses, Tops, Bottoms, Intimate, Jackets, Trend, All","df[""Department Name""]",on_department_change(),Filters corpus subset; updates class sub-options & KPI metrics,3.2
-Class Name Multiselect,Dropdown Menu (Multi-Select),20 Garment Class Sub-Categories,"df[""Class Name""]",on_class_change(),Filters garment inventory table; updates price/rating distributions,4.1
-Demographic Age Slider,Range Slider (Dual Handle),18 to 99 Years (Step: 1),"df[""Age""]",on_age_range_change(),Re-bins age demographic histogram; filters age cohort metrics,2.8
-Star Rating Slider,Range Slider (Dual Handle),1 to 5 Stars (Step: 1),"df[""Rating""]",on_rating_filter_change(),Adjusts sentiment vs rating scatter plot; isolates negative outliers,2.5
-Keyword Search Input,Text Input Field,Alphanumeric Regex / Substring,"df[""Full_Review_Text""]",on_search_query_submit(),Filters reviews containing query terms; highlights matching keywords,5.4
-Live Review Simulator,Text Area (Multi-Line Input),Free-form customer review text,Raw Text Payload,on_review_predict_click(),Extracts NLP features; runs real-time inference & probability gauge,2.1
-Decision Threshold Slider,Single-Value Slider,0.10 to 0.90 (Step: 0.05),Threshold Tau,on_threshold_adjust(),Updates classification boundary; shifts Precision/Recall trade-off,1.1
