@@ -1,0 +1,6 @@
+Sample_ID,Review_Text,Char_Length,Word_Count,Exclamation_Marks,Predicted_Class,Predicted_Label,Recommendation_Probability,Confidence_Pct
+1,"This dress is absolute perfection! The fabric is soft, heavy enough to drape beautifully, and flattering.",105,16,1,1,Recommended,0.9493,94.93
+2,Very disappointed. Material is cheap and scratchy. Sizing was way too small and zipper was broken.,98,16,0,0,Not Recommended,0.0034,99.66
+3,"Cute top and lovely color, but fits slightly tight around the bust. I recommend sizing up one size.",99,18,0,1,Recommended,0.9945,99.45
+4,Poor quality fabric that pilled after one wash. Looked like a potato sack on me. Returning it immediately.,106,18,0,0,Not Recommended,0.0045,99.55
+5,Best sweater I have bought all winter. Keeps me warm and I have received endless compliments.,93,16,0,1,Recommended,0.9905,99.05
