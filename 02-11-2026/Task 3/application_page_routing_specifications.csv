@@ -1,0 +1,7 @@
+Page_Index,Page_Title,Icon,Target_Audience,Primary_Components,Session_State_Dependency,Average_Render_Time_ms
+1,Executive Overview & KPIs,🏠,"Executive Merchandisers, C-Suite, VP Fashion Analytics","4 Metric KPI Cards, Dept Volume Bar Chart, Rating Donut Chart, Overview Grid",Global corpus handle (df_corpus),14.2
+2,Dataset Ingestion & Explorer,📁,"Data Engineers, Supply Chain Analysts, Business Intelligence","File Uploader, Schema Validator, Multi-Column Filter Grid, Search Box, Data Table, CSV Exporter","st.session_state.filter_dept, search_query, uploaded_file",18.5
+3,Interactive Analytics & Widgets,🎛️,"Inventory Buyers, Product Category Managers","Department/Class Dropdowns, Dual-Range Sliders, Sentiment vs Rating Scatter, Age Histogram","on_widget_change callbacks, filter_age, filter_rating",21.0
+4,Real-Time Sentiment Predictor,🔮,"E-Commerce QA, Vendor Auditing, Live Moderation","Preset Button Selectors, Multi-line Review Input, Decision Slider, Confidence Meter, NLP Metrics","Model pipeline handle, live review text buffer",8.4
+5,Fashion Trends & Deep Insights,📈,"Trend Forecasters, Apparel Designers","Dept Rating Cross-Tab Heatmap, Class Volume Bar, Age Cohort Satisfaction Profile, KPI Table","df_corpus, rating_crosstab",16.8
+6,Technical Architecture & Specs,⚙️,"Software Architects, DevOps Engineers","System Blueprint Architecture, SLA Latency Matrix, Caching Benchmark Summary",System performance metrics,6.2

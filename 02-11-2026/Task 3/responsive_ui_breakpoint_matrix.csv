@@ -1,0 +1,5 @@
+Device_Class,Viewport_Width_px,Layout_Strategy,Sidebar_Behavior,Chart_Width_Mode,Font_Scale_Rem,Usability_Rating_100
+Mobile Handset,< 768px,Single Column Stacking (st.columns collapse to 1),Collapsible Overlay Drawer (auto-closed),Dynamic Container Width (100% viewport),0.90 rem,92.4
+Tablet Device,768px - 1024px,Two-Column Adaptive Grid,Expandable Sidebar Drawer,use_container_width=True,0.95 rem,94.8
+Standard Desktop / Laptop,1024px - 1440px,Multi-Column Wide Grid (2-4 columns),Pinned Left Sidebar Navigation,"Fixed Height (360-400px), Auto Width",1.00 rem,97.5
+Ultrawide Desktop Monitor,> 1440px,Four-Column Dashboard KPI + 2-Column Deep Analytics,Persistent Sidebar with Real-Time System Metrics,Max Content Width Container Grid,1.05 rem,96.0
