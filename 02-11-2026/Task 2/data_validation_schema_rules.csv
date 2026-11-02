@@ -1,0 +1,9 @@
+Column_Name,Data_Type,Required,Allowed_Range_or_Values,Imputation_Strategy,Error_Code
+Clothing ID,Integer,True,1 to 99999,Drop record if missing,ERR_INVALID_ID
+Age,Integer,True,18 to 100,Impute with cohort median (41),ERR_AGE_OUT_OF_BOUNDS
+Rating,Integer,True,1 to 5,Reject row; critical target feature,ERR_RATING_OUT_OF_BOUNDS
+Recommended IND,Binary (0 or 1),True,"0, 1",Infer from Rating >= 4 if null,ERR_REC_NULL
+Department Name,Categorical,False,"Dresses, Tops, Bottoms, Intimate, Jackets, Trend","Impute with mode (""Tops"")",WARN_DEPT_MISSING
+Class Name,Categorical,False,20 Merchandising Classes,"Impute with ""Dresses""",WARN_CLASS_MISSING
+Review Text,String / Text,False,Alphanumeric string (max 5000 chars),Synthesize empty string; use Title,WARN_TEXT_EMPTY
+Full_Review_Text,String / Text,True,Non-empty alphanumeric string,Concatenate Title + Review Text,ERR_UNUSABLE_TEXT
