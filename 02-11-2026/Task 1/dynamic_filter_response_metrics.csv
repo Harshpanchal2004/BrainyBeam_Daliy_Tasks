@@ -1,0 +1,6 @@
+Scenario_ID,Dept,Age_Min,Age_Max,Rating_Min,Rating_Max,Retained_Rows,Volume_Pct,Mean_Rating,Rec_Rate,Render_Latency_ms
+S1_Default_All,All,18,99,1,5,23486,100.0,4.2,82.2,12.4
+S2_Dresses_Cohort,Dresses,25,45,1,5,3824,16.3,4.18,81.4,6.8
+S3_Negative_Complaints,All,18,99,1,2,2407,10.2,1.62,4.8,5.2
+S4_Sweaters_Premium,Sweaters,35,65,4,5,1876,8.0,4.79,97.2,4.6
+S5_Bottoms_Active,Bottoms,18,35,3,5,1142,4.9,4.41,89.5,3.9
