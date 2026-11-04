@@ -1,0 +1,11 @@
+Token,Coefficient_Weight,TFIDF_Weight,SHAP_Additive_Attribution,Contribution_Direction
+love,5.2768,0.1526,0.8052,Supports Recommendation
+gorgeous,2.7319,0.2873,0.785,Supports Recommendation
+perfection,1.45,0.457,0.6626,Supports Recommendation
+fabric,-3.0654,0.2028,-0.6218,Opposes Recommendation
+flattering,1.4306,0.2139,0.306,Supports Recommendation
+luxurious,0.4973,0.5225,0.2598,Supports Recommendation
+absolutely,0.606,0.3211,0.1946,Supports Recommendation
+fit,-0.8738,0.1707,-0.1492,Opposes Recommendation
+dress,0.2651,0.1728,0.0458,Supports Recommendation
+drape,-0.0313,0.4042,-0.0126,Opposes Recommendation

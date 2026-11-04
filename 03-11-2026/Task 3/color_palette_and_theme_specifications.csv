@@ -1,0 +1,6 @@
+Theme_Name,Primary_Hex,Secondary_Hex,Accent_Hex,Background_Hex,Text_Hex,Contrast_Ratio
+Deep Navy (Default),#1A365D,#2B6CB0,#319795,#FFFFFF,#2D3748,12.4:1 (WCAG AAA)
+Emerald Teal,#22543D,#2F855A,#38B2AC,#F7FAFC,#1A202C,11.8:1 (WCAG AAA)
+Sunset Coral,#7B341E,#DD6B20,#E53E3E,#FFF5F5,#2D3748,9.6:1 (WCAG AAA)
+Viridis Scientific,#440154,#31688E,#35B779,#FAFAFA,#1A202C,14.1:1 (WCAG AAA)
+Plasma Warm,#0D0887,#7E03A8,#F89540,#FFFFFF,#2D3748,13.2:1 (WCAG AAA)

@@ -1,0 +1,7 @@
+Execution_Mode,Subsystem,Latency_ms,Memory_RSS_MB,CPU_Peak_Pct
+Cold Start (Initial Venv Launch via run_app.bat),Python Kernel + Venv Site-Packages Bootstrap,620.0,84.5,42.1
+Cold Start (Initial Venv Launch via run_app.bat),Streamlit Server Daemon & Port 8501 Binding,480.0,112.0,28.4
+Cold Start (Initial Venv Launch via run_app.bat),Artifact & Model Bundle Deserialization (models_dict.pkl),185.0,148.2,19.5
+Cold Start (Initial Venv Launch via run_app.bat),Dataset Caching & Memory Ingestion (@st.cache_data),240.0,195.4,34.0
+Warm Reload (Browser Page Refresh),In-Memory Script Re-run (Cached Data & Model),34.0,196.2,6.2
+Hot Reload (Source Code Change in app.py),File Watcher Invalidation + Bytecode Compilation,78.0,198.0,12.8

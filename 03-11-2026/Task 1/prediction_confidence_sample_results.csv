@@ -1,0 +1,21 @@
+Sample_ID,Review_Snippet,Model_Name,Predicted_Label,Recommendation_Probability,Confidence_Score,Certainty_Band
+1,"Absolutely love this gorgeous dress! The fabric is luxurious, fit...",Logistic Regression,Recommended,0.9781,0.9781,High
+1,"Absolutely love this gorgeous dress! The fabric is luxurious, fit...",Multinomial Naive Bayes,Recommended,0.9651,0.9651,High
+1,"Absolutely love this gorgeous dress! The fabric is luxurious, fit...",Linear SVM (Calibrated SGD),Recommended,0.9553,0.9553,High
+1,"Absolutely love this gorgeous dress! The fabric is luxurious, fit...",Random Forest Classifier,Recommended,0.8607,0.8607,High
+2,"Cute top and lovely color, but the chest area was too tight and l...",Logistic Regression,Recommended,0.7499,0.7499,Moderate
+2,"Cute top and lovely color, but the chest area was too tight and l...",Multinomial Naive Bayes,Recommended,0.7589,0.7589,Moderate
+2,"Cute top and lovely color, but the chest area was too tight and l...",Linear SVM (Calibrated SGD),Recommended,0.7463,0.7463,Moderate
+2,"Cute top and lovely color, but the chest area was too tight and l...",Random Forest Classifier,Recommended,0.8216,0.8216,High
+3,"Worst purchase ever. Poor thin scratchy material, torn seam upon ...",Logistic Regression,Not Recommended,0.0436,0.9564,High
+3,"Worst purchase ever. Poor thin scratchy material, torn seam upon ...",Multinomial Naive Bayes,Not Recommended,0.0708,0.9292,High
+3,"Worst purchase ever. Poor thin scratchy material, torn seam upon ...",Linear SVM (Calibrated SGD),Not Recommended,0.1382,0.8618,High
+3,"Worst purchase ever. Poor thin scratchy material, torn seam upon ...",Random Forest Classifier,Not Recommended,0.4884,0.5116,Low
+4,"Very comfortable casual linen pants, perfect for summer vacation ...",Logistic Regression,Recommended,0.998,0.998,High
+4,"Very comfortable casual linen pants, perfect for summer vacation ...",Multinomial Naive Bayes,Recommended,0.9962,0.9962,High
+4,"Very comfortable casual linen pants, perfect for summer vacation ...",Linear SVM (Calibrated SGD),Recommended,0.9928,0.9928,High
+4,"Very comfortable casual linen pants, perfect for summer vacation ...",Random Forest Classifier,Recommended,0.9216,0.9216,High
+5,"Disappointing quality for the price. Stiff fabric, awkward armhol...",Logistic Regression,Not Recommended,0.0044,0.9956,High
+5,"Disappointing quality for the price. Stiff fabric, awkward armhol...",Multinomial Naive Bayes,Not Recommended,0.1092,0.8908,High
+5,"Disappointing quality for the price. Stiff fabric, awkward armhol...",Linear SVM (Calibrated SGD),Not Recommended,0.0212,0.9788,High
+5,"Disappointing quality for the price. Stiff fabric, awkward armhol...",Random Forest Classifier,Not Recommended,0.4667,0.5333,Low

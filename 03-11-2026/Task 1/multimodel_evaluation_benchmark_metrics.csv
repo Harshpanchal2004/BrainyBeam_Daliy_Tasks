@@ -1,0 +1,5 @@
+Model_Name,Accuracy,Precision,Recall,F1_Score,Macro_F1,ROC_AUC,Training_Time_s,Inference_Latency_ms
+Logistic Regression,0.9029,0.9154,0.9718,0.9427,0.8122,0.9354,0.23,0.0004
+Multinomial Naive Bayes,0.874,0.8759,0.9865,0.9279,0.7135,0.931,0.01,0.0011
+Linear SVM (Calibrated SGD),0.8938,0.8997,0.9801,0.9382,0.7808,0.9348,0.08,0.0005
+Random Forest Classifier,0.8304,0.8295,0.999,0.9064,0.5009,0.9112,2.75,0.0418

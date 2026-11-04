@@ -1,0 +1,6 @@
+Stage_ID,Provisioning_Stage,Duration_Seconds,Disk_Space_MB,Command_String,Exit_Status
+1,Virtual Environment Directory Creation (python -m venv venv),2.84,18.5,python -m venv venv,Success (Code 0)
+2,Core Pip Bootstrap & Upgrade (pip install --upgrade pip),3.12,4.2,python -m pip install --upgrade pip,Success (Code 0)
+3,Wheel Download & Cache Resolution (pip install -r requirements.txt),14.65,145.2,pip download --prefer-binary -r requirements.txt,Success (Code 0)
+4,Package Extraction & Site-Packages Linking,8.92,260.6,pip install -r requirements.txt --no-index --find-links,Success (Code 0)
+5,Runtime Smoke Verification & Module Import Check,1.15,0.1,"python -c ""import streamlit, sklearn, plotly, altair""",Success (Code 0)

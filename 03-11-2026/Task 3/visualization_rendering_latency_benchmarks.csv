@@ -1,0 +1,9 @@
+Chart_Type,Dataset_Rows,Plotly_Latency_ms,Altair_Latency_ms,Memory_Overhead_KB,FPS_Performance
+Categorical Bar Chart,1000,12.4,18.2,142.0,60 FPS (Fluid)
+Categorical Bar Chart,5000,18.6,29.4,310.0,60 FPS (Fluid)
+Categorical Bar Chart,23486,28.2,48.5,840.0,60 FPS (Fluid)
+Continuous Scatter Plot,1000,14.8,22.1,210.0,60 FPS (Fluid)
+Continuous Scatter Plot,5000,32.5,54.8,620.0,55 FPS (Smooth)
+Continuous Scatter Plot,23486,64.2,118.6,1850.0,48 FPS (Acceptable)
+Distribution Box Plot,23486,22.4,36.8,480.0,60 FPS (Fluid)
+Proportional Donut Chart,23486,11.2,16.5,95.0,60 FPS (Fluid)

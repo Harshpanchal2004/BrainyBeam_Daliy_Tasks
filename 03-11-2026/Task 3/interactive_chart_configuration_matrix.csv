@@ -1,0 +1,7 @@
+Chart_Type,Primary_Engine,X_Dimension,Y_Dimension,Color_Dimension,Tooltip_Payload,Interactivity
+Categorical Bar Chart,Plotly (px.bar),Department Name / Class Name,Record Count / Mean Rating,Recommended IND (Binary),"Category, Count, Avg Age, Recommendation Rate %","Click-to-zoom, hover tooltip, legend isolate"
+Continuous Scatter Plot,Plotly (px.scatter),Age (Customer Demographics),Positive Feedback Count,Rating (1 to 5 Stars),"Age, Feedback Count, Rating, Department, Review Snippet","Box/lasso select, pan, hover card, dynamic trendline"
+Distribution Box Plot,Plotly (px.box),Department Name,Rating / Customer Age,Department Name,"Min, Q1, Median, Q3, Max, Upper/Lower Outliers","Outlier point hover, range slider zoom"
+Proportional Donut Chart,Plotly (px.pie with hole=0.5),N/A (Sectors),Aggregate Review Volume,Department Name,"Department, Total Volume, Share %, Relative Ratio","Sector pull-out, percentage toggle, legend filter"
+Density Histogram,Plotly (px.histogram),Customer Age (Binned),Review Count (Frequency),Recommended IND,"Age Bin Interval, Frequency, Cohort Percentage","Dynamic binning slider, overlay vs stack toggle"
+Correlation Heatmap,Plotly (px.imshow),Department Name,Rating Scale (1 to 5),Relative Review Frequency,"Department, Rating, Cell Density %, Total Reviews","Cell color gradient hover, continuous z-scale"
