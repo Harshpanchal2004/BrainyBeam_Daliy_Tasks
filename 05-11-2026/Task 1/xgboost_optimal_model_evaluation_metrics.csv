@@ -1,0 +1,2 @@
+Model_Name,Learning_Rate,Max_Depth,Subsample_Ratio,Gamma_Regularization,Colsample_bytree,Early_Stopping_Rounds,Best_Iteration,Test_Accuracy,Test_Precision,Test_Recall,Test_F1_Score,Test_ROC_AUC,Test_Log_Loss,Test_Brier_Score
+XGBoost_Optimal_Regularized,0.1,5,0.8,0.5,0.8,20,234,0.8907,0.9137,0.9575,0.9351,0.9244,0.2553,0.0777
