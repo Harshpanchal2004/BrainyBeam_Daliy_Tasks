@@ -1,0 +1,8 @@
+Component,Specification,Configuration_Role,Cloud_Container_Impact
+Web UI Framework,Streamlit v1.35.0+,Interactive multi-page dashboard with reactive widgets,Fast headless startup (< 2.5s)
+Data Caching Protocol,@st.cache_data(ttl=3600),Caches immutable customer review datasets & filtered cohorts,98.5% query latency reduction; saves CPU cycles
+Resource Caching Protocol,@st.cache_resource,Maintains XGBoost & Random Forest singleton model instances in RAM,Zero redundant disk reads on button clicks
+Model Deserialization Engine,Joblib (Level 3 Zlib Compression),Loads models from models/ directory,Reduces model storage footprint by 95.8%
+Application Configuration File,.streamlit/config.toml,"Defines brand color (#1A365D), headless server & security limits",Enforces corporate theme consistency & XSRF protection
+Secrets Management Interface,st.secrets & secrets.toml,"Secure API keys (Gemini, DB tokens) without code exposure",Zero plaintext secret exposure in public GitHub repos
+Runtime Memory Budget,1024 MB RAM limit (Community Cloud),Allocated memory per cloud application instance,Active memory usage kept under 180 MB

@@ -1,0 +1,7 @@
+Model_Architecture,Protocol,File_Size_KB,Mean_Load_Time_ms,Std_Load_Time_ms,Speedup_vs_Pickle,Storage_Compression_Pct
+XGBoost_Optimal,Standard Pickle,486.03,6.66,0.87,1.0x (Baseline),0.0%
+XGBoost_Optimal,Joblib (Uncompressed),486.03,8.07,1.08,0.83x,0.0%
+XGBoost_Optimal,Joblib (Compress Lvl 3),158.5,10.02,0.95,0.66x,67.4%
+RandomForest_GridSearch,Standard Pickle,21299.0,35.19,4.77,1.0x (Baseline),0.0%
+RandomForest_GridSearch,Joblib (Uncompressed),21312.9,77.97,26.16,0.45x,-0.1%
+RandomForest_GridSearch,Joblib (Compress Lvl 3),6086.44,168.2,32.17,0.21x,71.4%

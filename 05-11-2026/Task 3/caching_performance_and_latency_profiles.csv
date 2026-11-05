@@ -1,0 +1,5 @@
+Record_Cohort_Size,Cold_Run_Uncached_ms,Warm_Run_Cached_ms,Speedup_Factor,Latency_Reduction_Pct,Memory_Overhead_KB,Cache_Hit_Ratio_Target
+1000,22.54,0.002,14545.5x,99.99,828.0,100%
+5000,2.48,0.001,2480.3x,99.97,4166.2,100%
+10000,3.51,0.001,3512.4x,99.98,8256.9,100%
+23486,7.84,0.002,4324.2x,99.98,19505.9,100%
