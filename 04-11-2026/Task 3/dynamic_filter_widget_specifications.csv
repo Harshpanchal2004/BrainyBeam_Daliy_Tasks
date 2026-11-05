@@ -1,0 +1,7 @@
+Widget_Name,Component_Type,Parameter_Domain,State_Binding,Execution_Latency_ms,Interaction_Trigger
+Department Multi-Select,st.multiselect,"6 Departments (Dresses, Tops, Bottoms, Intimate, Jackets, Trend)","st.session_state[""sel_depts""]",1.85,Filters inventory sub-corpus; dynamically restricts Class Name choices
+Garment Class Sub-Category,st.multiselect,20 Garment Class Sub-Categories,"st.session_state[""sel_classes""]",2.1,"Isolates specific product archetypes (Blouses, Knits, Pants)"
+Customer Age Range Slider,st.slider (Dual-Handle Range),18 to 99 Years (Step: 1 Year),"st.session_state[""sel_age""]",1.45,Restricts demographic cohort; dynamically updates age spread plots
+Star Rating Filter Slider,st.slider (Dual-Handle Range),1 to 5 Stars (Step: 1 Star),"st.session_state[""sel_rating""]",1.15,Isolates sentiment polarity; isolates severe defect or praise reviews
+Keyword Search Input Field,st.text_input,Case-insensitive regex / substring query,"st.session_state[""search_query""]",3.65,"Vectorized str.contains search across 23,486 text records"
+Recommendation Status Selector,st.radio (Horizontal Buttons),"All, Recommended Only (1), Not Recommended (0)","st.session_state[""rec_filter""]",0.95,Binary mask filtering on Recommended IND ground truth

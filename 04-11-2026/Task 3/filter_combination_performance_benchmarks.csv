@@ -1,0 +1,7 @@
+Scenario_ID,Active_Filters,Retained_Records,Retained_Pct,Mean_Rating,Net_Recommendation_Pct,Filter_Latency_ms
+S0: Full Unfiltered Baseline,"None (All Departments, Ages 18-99, Ratings 1-5)",23486,100.0,4.19,82.24,0.12
+S1: Tops & Blouses Only,"Department: Tops; Class: Blouses, Knits",7984,33.99,4.16,82.15,1.84
+S2: Millennial Dresses (Age 25-40),Department: Dresses; Age: 25-40; Rating: 1-5,2415,10.28,4.12,81.82,2.45
+S3: Critical Complaint Isolation,All Departments; Rating: 1-2 Stars,2407,10.25,1.62,4.86,1.42
+"S4: Keyword Search (""Pockets"")","Substring: ""pockets""; Rating: 1-5",1042,4.44,4.41,91.27,4.18
+S5: High-Satisfaction Silk Sweaters,"Class: Sweaters; Query: ""silk""; Rating: 4-5",312,1.33,4.78,98.08,3.92
