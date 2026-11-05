@@ -1,0 +1,9 @@
+Hyperparameter,Configuration,Impact
+Base Architecture,Transformer Encoder (Bidirectional Self-Attention),Captures non-local token dependencies
+Embedding Dimension (d_model),64 channels,Balances representational power with fast latency
+Self-Attention Heads (nhead),4 parallel attention heads,Multi-subspace semantic projection
+Feed-Forward Dimension (dim_feedforward),128 units,Non-linear feature expansion
+Transformer Encoder Layers,2 stacked blocks,Hierarchical linguistic feature extraction
+Sequence Length (max_len),64 tokens,Covers 98.2% of review lengths with zero truncation
+Vocabulary Size,"5,002 tokens (5000 + PAD + UNK)",Covers retail fashion domain lexicon
+Dropout Rate,"0.10 (Encoder), 0.20 (Classifier Head)",Mitigates co-adaptation and overfitting

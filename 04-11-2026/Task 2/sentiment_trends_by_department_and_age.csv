@@ -1,0 +1,17 @@
+Department,Age_Cohort,Review_Count,Positive_Sentiment_Rate,Mean_Star_Rating
+Dresses,18-30,782,0.812,4.08
+Dresses,31-45,2840,0.828,4.14
+Dresses,46-60,1954,0.835,4.19
+Dresses,60+,743,0.841,4.22
+Tops,18-30,1240,0.815,4.1
+Tops,31-45,4680,0.83,4.15
+Tops,46-60,3128,0.832,4.17
+Tops,60+,1420,0.848,4.25
+Bottoms,18-30,420,0.842,4.24
+Bottoms,31-45,1680,0.852,4.28
+Bottoms,46-60,1210,0.858,4.31
+Bottoms,60+,489,0.865,4.35
+Intimate,18-30,285,0.854,4.26
+Intimate,31-45,990,0.864,4.3
+Intimate,46-60,710,0.871,4.34
+Intimate,60+,250,0.879,4.38

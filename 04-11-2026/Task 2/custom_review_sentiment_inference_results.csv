@@ -1,0 +1,6 @@
+Sample_ID,Review_Snippet,Predicted_Sentiment,P_Positive,P_Negative,Confidence_Score,Certainty
+1,Absolutely love this gorgeous dress! Fabric is luxurious and flattering...,Positive,0.9842,0.0158,0.9842,High Confidence
+2,"Cute top and lovely color, but the chest was too tight and awkward...",Negative,0.3215,0.6785,0.6785,Moderate Confidence
+3,"Disappointing quality for price. Stiff material, ripped seam on arrival...",Negative,0.0384,0.9616,0.9616,High Confidence
+4,"Very comfortable casual linen pants, perfect for warm summer days...",Positive,0.941,0.059,0.941,High Confidence
+5,"It was okay, color matches photo but sleeve length was slightly long...",Positive,0.542,0.458,0.542,Borderline
