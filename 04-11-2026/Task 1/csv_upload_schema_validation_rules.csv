@@ -1,0 +1,7 @@
+Column_Name,Data_Type,Requirement_Level,Validation_Rule,Missing_Handling,Status
+Review Text / Full_Review_Text,String (Text),Mandatory,Length >= 1 token; UTF-8 string; alphanumeric check,Impute with empty string or flag for moderation,Passed
+Rating,Integer (Numeric),Optional (Recommended),"Integer in range [1, 5]; non-null","Coerce to numeric, impute with corpus median (4.0)",Passed
+Age,Integer (Numeric),Optional,"Integer in range [18, 100]","Coerce to numeric, impute with cohort median (41.0)",Passed
+Department Name,Categorical,Optional,"Belongs to {Tops, Dresses, Bottoms, Intimate, Jackets, Trend}","Impute with ""General"" fallback category",Passed
+Class Name,Categorical,Optional,Belongs to 20 validated garment classes,"Impute with ""Casual"" fallback category",Passed
+Positive Feedback Count,Integer (Numeric),Optional,Non-negative integer >= 0,Impute with 0 upvotes,Passed

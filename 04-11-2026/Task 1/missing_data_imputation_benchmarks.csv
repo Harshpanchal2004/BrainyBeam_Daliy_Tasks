@@ -1,0 +1,6 @@
+Field_Name,Total_Evaluated,Missing_Count,Missing_Pct,Imputation_Strategy,Processing_Latency_ms,Integrity_Check
+Full_Review_Text,23486,845,3.6,"Constant Empty String ("""")",2.14,100% Retained
+Title,23486,3810,16.22,"Merged into Full_Review_Text ("""")",3.85,100% Retained
+Department Name,23486,14,0.06,"Mode Category (""Tops"")",0.82,100% Retained
+Class Name,23486,14,0.06,"Mode Category (""Dresses"")",0.79,100% Retained
+Age,23486,0,0.0,Median Age (41.0 Years),0.15,100% Valid

@@ -1,0 +1,6 @@
+Batch_ID,Sample_Count,Predicted_Recommended,Predicted_Not_Recommended,Recommendation_Rate_Pct,Mean_Confidence_Pct,Inference_Duration_s
+Batch_A (Dresses),6319,5238,1081,82.89,89.42,7.45
+Batch_B (Tops),10468,8684,1784,82.96,88.95,12.3
+Batch_C (Bottoms),3799,3241,558,85.31,91.15,4.48
+Batch_D (Intimate),2235,1934,301,86.53,91.8,2.64
+Batch_E (Jackets),1032,854,178,82.75,88.6,1.22
