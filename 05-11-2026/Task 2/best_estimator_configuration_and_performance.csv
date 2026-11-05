@@ -1,0 +1,2 @@
+Model_Family,Best_N_Estimators,Best_Max_Depth,Best_Min_Samples_Split,Best_Min_Samples_Leaf,CV_Mean_ROC_AUC,Holdout_Test_Accuracy,Holdout_Test_Precision,Holdout_Test_Recall,Holdout_Test_F1,Holdout_Test_ROC_AUC,Holdout_Test_Log_Loss,Total_Tuning_Time_Sec
+RandomForestClassifier_GridSearchCV,150,None,2,4,0.9114,0.8771,0.8896,0.971,0.9285,0.915,0.279,170.68

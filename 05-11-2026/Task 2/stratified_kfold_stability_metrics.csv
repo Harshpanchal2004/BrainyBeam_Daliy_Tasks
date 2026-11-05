@@ -1,0 +1,6 @@
+Configuration,Fold_1_ROC_AUC,Fold_2_ROC_AUC,Fold_3_ROC_AUC,Fold_4_ROC_AUC,Fold_5_ROC_AUC,Mean_ROC_AUC,Std_Dev,Variance,Stability_Rating
+Trees=150_Depth=None_Split=2_Leaf=4,0.9091,0.9196,0.9121,0.904,0.9123,0.9114,0.0051,2.6e-05,High
+Trees=150_Depth=None_Split=10_Leaf=4,0.9064,0.9179,0.9107,0.9081,0.9139,0.9114,0.0041,1.7e-05,Exceptional (< 0.005 std)
+Trees=100_Depth=None_Split=10_Leaf=4,0.905,0.9188,0.9109,0.9076,0.9146,0.9114,0.0049,2.4e-05,Exceptional (< 0.005 std)
+Trees=150_Depth=15_Split=10_Leaf=1,0.9092,0.9176,0.9112,0.9045,0.9126,0.911,0.0043,1.8e-05,Exceptional (< 0.005 std)
+Trees=100_Depth=None_Split=2_Leaf=4,0.9088,0.9195,0.9111,0.9025,0.9118,0.9108,0.0055,3e-05,High
