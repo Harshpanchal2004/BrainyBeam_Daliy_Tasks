@@ -1,0 +1,9 @@
+Hyperparameter,Importance_Score,Relative_Contribution_Pct,Optimal_Tuned_Value
+n_estimators,0.2677,26.77,140
+reg_lambda,0.1953,19.53,4.540106900264004
+learning_rate,0.1882,18.82,0.1337013670020373
+colsample_bytree,0.1879,18.79,0.6
+reg_alpha,0.0774,7.74,4.460189465964712
+max_depth,0.042,4.2,4
+gamma,0.0239,2.39,3.0
+subsample,0.0176,1.76,1.0

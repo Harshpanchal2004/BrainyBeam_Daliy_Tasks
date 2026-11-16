@@ -1,0 +1,4 @@
+Search_Method,Total_Evaluated_Trials,Search_Runtime_Sec,Best_CV_ROC_AUC,Holdout_Test_ROC_AUC,Holdout_Test_Accuracy,Iterations_to_Threshold,Computational_Efficiency_Rating
+Bayesian Optimization (Optuna TPE),45,27.04,0.9815,0.9769,0.9419,7,Superior (Adaptive Guidance)
+Random Search (RandomizedSearchCV),45,28.53,0.9813,0.9764,0.9395,4,Moderate (Uninformed Sampling)
+Traditional Grid Search (GridSearchCV),32,21.35,0.9804,0.977,0.9425,1,Low (Curse of Dimensionality)
