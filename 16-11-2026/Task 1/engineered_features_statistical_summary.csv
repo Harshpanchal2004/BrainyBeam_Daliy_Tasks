@@ -1,0 +1,12 @@
+Feature_Name,Mean,Std_Dev,Min,Median,Max,Skewness,Target_Correlation,Feature_Category
+Sentiment_x_Age,0.6457,0.395,-1.3553,0.6888,1.9529,-1.0958,0.3649,Interaction
+Rating_x_Length,22.7799,7.8662,0.0,24.9376,31.5858,-1.2108,0.5805,Interaction
+PosWord_x_Compound,1.1303,1.0538,-2.877,0.9382,5.958,0.6683,0.3102,Interaction
+Feedback_x_Sentiment,0.564,0.8073,-3.5886,0.0,4.5345,1.0133,0.1093,Interaction
+Exclamation_x_Negative,0.0236,0.0753,0.0,0.0,2.296,8.3477,-0.0748,Interaction
+Pos_to_Neg_Ratio,2.1996,1.1029,0.1667,2.0,7.0,0.5561,0.3277,Interaction
+Age^2,2016.895,1156.1237,324.0,1681.0,9801.0,1.1993,0.0327,Polynomial_Degree_2
+Rating^2,18.8388,7.8027,1.0,25.0,25.0,-0.8671,0.7629,Polynomial_Degree_2
+Sentiment_Compound^2,0.7063,0.2977,0.0,0.8387,0.9928,-1.2465,0.368,Polynomial_Degree_2
+Review_Length^2,123480.8864,98158.1282,0.0,95481.0,310249.0,0.4293,-0.0357,Polynomial_Degree_2
+Positive_Word_Count^2,2.7817,3.679,0.0,1.0,36.0,2.3421,0.2032,Polynomial_Degree_2
